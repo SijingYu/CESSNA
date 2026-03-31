@@ -1,0 +1,1950 @@
+The pair of countries are Gambia      Mali       Dimension of the matrix: [9, 18, 71, 164, 754]----------------  PHYLUM ---------------- 
+Matching 9 nodes with 3 seeds/communities
+Average for matching phylum without cluster -- control
+0.5555555555555556
+Average for matching phylum without cluster -- case
+0.5555555555555556
+Average for matching phylum with cluster -- control
+1.0
+Average for matching phylum with cluster -- case
+0.7777777777777778
+Average for matching phylum without cluster -- 1control 2case
+0.6444444444444445
+Average for matching phylum without cluster -- 2control 1case
+0.6666666666666667
+Average for matching phylum with cluster -- 1control 2case
+0.7777777777777778
+Average for matching phylum with cluster -- 2control 1case
+1.0
+Matching 9 nodes with 3 seeds/communities
+Average for matching phylum without cluster -- control
+0.5
+Average for matching phylum without cluster -- case
+0.45
+Average for matching phylum with cluster -- control
+1.0
+Average for matching phylum with cluster -- case
+0.75
+Average for matching phylum without cluster -- 1control 2case
+0.6
+Average for matching phylum without cluster -- 2control 1case
+0.625
+Average for matching phylum with cluster -- 1control 2case
+0.75
+Average for matching phylum with cluster -- 2control 1case
+1.0
+Matching 9 nodes with 3 seeds/communities
+Average for matching phylum without cluster -- control
+0.42857142857142855
+Average for matching phylum without cluster -- case
+0.6285714285714287
+Average for matching phylum with cluster -- control
+1.0
+Average for matching phylum with cluster -- case
+0.7142857142857143
+Average for matching phylum without cluster -- 1control 2case
+0.5714285714285714
+Average for matching phylum without cluster -- 2control 1case
+0.5714285714285714
+Average for matching phylum with cluster -- 1control 2case
+0.7142857142857143
+Average for matching phylum with cluster -- 2control 1case
+1.0
+----------------  CLASS ---------------- 
+The pair of countries are Gambia      Mali       
+Matching 18 nodes with 0 seeds/communities
+Average for matching class without cluster -- control
+0.26666666666666666
+Average for matching class without cluster -- case
+0.3055555555555556
+Average for matching class with cluster -- control
+0.7444444444444445
+Average for matching class with cluster -- case
+0.888888888888889
+Average for matching class without cluster -- 1control 2case
+0.25555555555555554
+Average for matching class without cluster -- 2control 1case
+0.2611111111111112
+Average for matching class with cluster -- 1control 2case
+0.3131313131313131
+Average for matching class with cluster -- 2control 1case
+0.31818181818181823
+The pair of countries are Gambia      Mali       
+Matching 18 nodes with 1 seeds/communities
+Average for matching class without cluster -- control
+0.5294117647058822
+Average for matching class without cluster -- case
+0.41764705882352937
+Average for matching class with cluster -- control
+0.7176470588235294
+Average for matching class with cluster -- case
+0.8823529411764707
+Average for matching class without cluster -- 1control 2case
+0.49411764705882344
+Average for matching class without cluster -- 2control 1case
+0.48235294117647054
+Average for matching class with cluster -- 1control 2case
+0.5294117647058822
+Average for matching class with cluster -- 2control 1case
+0.5080213903743315
+The pair of countries are Gambia      Mali       
+Matching 18 nodes with 2 seeds/communities
+Average for matching class without cluster -- control
+0.5
+Average for matching class without cluster -- case
+0.5125
+Average for matching class with cluster -- control
+0.7
+Average for matching class with cluster -- case
+0.875
+Average for matching class without cluster -- 1control 2case
+0.5625
+Average for matching class without cluster -- 2control 1case
+0.5
+Average for matching class with cluster -- 1control 2case
+0.5909090909090909
+Average for matching class with cluster -- 2control 1case
+0.5340909090909091
+The pair of countries are Gambia      Mali       
+Matching 18 nodes with 3 seeds/communities
+Average for matching class without cluster -- control
+0.5066666666666666
+Average for matching class without cluster -- case
+0.6533333333333333
+Average for matching class with cluster -- control
+0.7333333333333333
+Average for matching class with cluster -- case
+0.8666666666666668
+Average for matching class without cluster -- 1control 2case
+0.5133333333333333
+Average for matching class without cluster -- 2control 1case
+0.4666666666666667
+Average for matching class with cluster -- 1control 2case
+0.5454545454545454
+Average for matching class with cluster -- 2control 1case
+0.503030303030303
+The pair of countries are Gambia      Mali       
+Matching 18 nodes with 4 seeds/communities
+Average for matching class without cluster -- control
+0.32857142857142857
+Average for matching class without cluster -- case
+0.6214285714285716
+Average for matching class with cluster -- control
+0.7142857142857143
+Average for matching class with cluster -- case
+0.8571428571428571
+Average for matching class without cluster -- 1control 2case
+0.5214285714285714
+Average for matching class without cluster -- 2control 1case
+0.42857142857142866
+Average for matching class with cluster -- 1control 2case
+0.5519480519480519
+Average for matching class with cluster -- 2control 1case
+0.4675324675324676
+The pair of countries are Gambia      Mali       
+Matching 18 nodes with 5 seeds/communities
+Average for matching class without cluster -- control
+0.5230769230769232
+Average for matching class without cluster -- case
+0.6153846153846153
+Average for matching class with cluster -- control
+0.8461538461538461
+Average for matching class with cluster -- case
+0.8461538461538461
+Average for matching class without cluster -- 1control 2case
+0.46923076923076923
+Average for matching class without cluster -- 2control 1case
+0.476923076923077
+Average for matching class with cluster -- 1control 2case
+0.5174825174825175
+Average for matching class with cluster -- 2control 1case
+0.5104895104895105
+----------------  FAMILY ---------------- 
+The pair of countries are Gambia      Mali       
+Matching 71 nodes with 0 seeds/communities
+Average for matching family without cluster -- control
+0.0323943661971831
+Average for matching family without cluster -- case
+0.16056338028169015
+Average for matching family with cluster -- control
+0.7577464788732395
+Average for matching family with cluster -- case
+0.7830985915492958
+Average for matching family without cluster -- 1control 2case
+0.05352112676056338
+Average for matching family without cluster -- 2control 1case
+0.029577464788732393
+Average for matching family with cluster -- 1control 2case
+0.7507042253521128
+Average for matching family with cluster -- 2control 1case
+0.7267605633802817
+The pair of countries are Gambia      Mali       
+Matching 71 nodes with 2 seeds/communities
+Average for matching family without cluster -- control
+0.01594202898550725
+Average for matching family without cluster -- case
+0.16231884057971013
+Average for matching family with cluster -- control
+0.7797101449275363
+Average for matching family with cluster -- case
+0.7768115942028986
+Average for matching family without cluster -- 1control 2case
+0.049275362318840575
+Average for matching family without cluster -- 2control 1case
+0.030434782608695653
+Average for matching family with cluster -- 1control 2case
+0.7710144927536231
+Average for matching family with cluster -- 2control 1case
+0.7130434782608696
+The pair of countries are Gambia      Mali       
+Matching 71 nodes with 4 seeds/communities
+Average for matching family without cluster -- control
+0.041791044776119404
+Average for matching family without cluster -- case
+0.1611940298507463
+Average for matching family with cluster -- control
+0.7567164179104477
+Average for matching family with cluster -- case
+0.7641791044776121
+Average for matching family without cluster -- 1control 2case
+0.04477611940298507
+Average for matching family without cluster -- 2control 1case
+0.043283582089552235
+Average for matching family with cluster -- 1control 2case
+0.7805970149253731
+Average for matching family with cluster -- 2control 1case
+0.7119402985074628
+The pair of countries are Gambia      Mali       
+Matching 71 nodes with 6 seeds/communities
+Average for matching family without cluster -- control
+0.07538461538461538
+Average for matching family without cluster -- case
+0.19230769230769235
+Average for matching family with cluster -- control
+0.7507692307692307
+Average for matching family with cluster -- case
+0.7646153846153846
+Average for matching family without cluster -- 1control 2case
+0.04923076923076923
+Average for matching family without cluster -- 2control 1case
+0.046153846153846156
+Average for matching family with cluster -- 1control 2case
+0.7692307692307692
+Average for matching family with cluster -- 2control 1case
+0.7107692307692307
+The pair of countries are Gambia      Mali       
+Matching 71 nodes with 8 seeds/communities
+Average for matching family without cluster -- control
+0.07777777777777777
+Average for matching family without cluster -- case
+0.19841269841269837
+Average for matching family with cluster -- control
+0.7444444444444445
+Average for matching family with cluster -- case
+0.7698412698412698
+Average for matching family without cluster -- 1control 2case
+0.050793650793650794
+Average for matching family without cluster -- 2control 1case
+0.04126984126984127
+Average for matching family with cluster -- 1control 2case
+0.7555555555555555
+Average for matching family with cluster -- 2control 1case
+0.7126984126984126
+The pair of countries are Gambia      Mali       
+Matching 71 nodes with 10 seeds/communities
+Average for matching family without cluster -- control
+0.08852459016393442
+Average for matching family without cluster -- case
+0.1737704918032787
+Average for matching family with cluster -- control
+0.739344262295082
+Average for matching family with cluster -- case
+0.7672131147540984
+Average for matching family without cluster -- 1control 2case
+0.05245901639344262
+Average for matching family without cluster -- 2control 1case
+0.036065573770491806
+Average for matching family with cluster -- 1control 2case
+0.7475409836065574
+Average for matching family with cluster -- 2control 1case
+0.7098360655737705
+The pair of countries are Gambia      Mali       
+Matching 71 nodes with 12 seeds/communities
+Average for matching family without cluster -- control
+0.1610169491525424
+Average for matching family without cluster -- case
+0.08135593220338984
+Average for matching family with cluster -- control
+0.7644067796610169
+Average for matching family with cluster -- case
+0.7694915254237287
+Average for matching family without cluster -- 1control 2case
+0.08644067796610169
+Average for matching family without cluster -- 2control 1case
+0.08644067796610169
+Average for matching family with cluster -- 1control 2case
+0.7576271186440677
+Average for matching family with cluster -- 2control 1case
+0.7338983050847457
+The pair of countries are Gambia      Mali       
+Matching 71 nodes with 14 seeds/communities
+Average for matching family without cluster -- control
+0.187719298245614
+Average for matching family without cluster -- case
+0.08070175438596491
+Average for matching family with cluster -- control
+0.7473684210526316
+Average for matching family with cluster -- case
+0.7596491228070175
+Average for matching family without cluster -- 1control 2case
+0.06315789473684211
+Average for matching family without cluster -- 2control 1case
+0.09298245614035087
+Average for matching family with cluster -- 1control 2case
+0.749122807017544
+Average for matching family with cluster -- 2control 1case
+0.7157894736842104
+The pair of countries are Gambia      Mali       
+Matching 71 nodes with 16 seeds/communities
+Average for matching family without cluster -- control
+0.2436363636363636
+Average for matching family without cluster -- case
+0.18363636363636365
+Average for matching family with cluster -- control
+0.7709090909090909
+Average for matching family with cluster -- case
+0.8
+Average for matching family without cluster -- 1control 2case
+0.12363636363636363
+Average for matching family without cluster -- 2control 1case
+0.06363636363636363
+Average for matching family with cluster -- 1control 2case
+0.7527272727272727
+Average for matching family with cluster -- 2control 1case
+0.7527272727272727
+The pair of countries are Gambia      Mali       
+Matching 71 nodes with 18 seeds/communities
+Average for matching family without cluster -- control
+0.1716981132075472
+Average for matching family without cluster -- case
+0.17547169811320756
+Average for matching family with cluster -- control
+0.7377358490566038
+Average for matching family with cluster -- case
+0.8075471698113208
+Average for matching family without cluster -- 1control 2case
+0.12264150943396226
+Average for matching family without cluster -- 2control 1case
+0.060377358490566045
+Average for matching family with cluster -- 1control 2case
+0.7622641509433962
+Average for matching family with cluster -- 2control 1case
+0.7037735849056603
+----------------  GENUS ---------------- 
+The pair of countries are Gambia      Mali       
+Matching 164 nodes with 0 seeds/communities
+Average for matching genus without cluster -- control
+0.009146341463414634
+Average for matching genus without cluster -- case
+0.04878048780487805
+Average for matching genus with cluster -- control
+0.46768292682926826
+Average for matching genus with cluster -- case
+0.5213414634146342
+Average for matching genus without cluster -- 1control 2case
+0.01890243902439024
+Average for matching genus without cluster -- 2control 1case
+0.006097560975609756
+Average for matching genus with cluster -- 1control 2case
+0.4487804878048781
+Average for matching genus with cluster -- 2control 1case
+0.47195121951219515
+The pair of countries are Gambia      Mali       
+Matching 164 nodes with 5 seeds/communities
+Average for matching genus without cluster -- control
+0.00628930817610063
+Average for matching genus without cluster -- case
+0.050314465408805034
+Average for matching genus with cluster -- control
+0.4578616352201258
+Average for matching genus with cluster -- case
+0.5327044025157234
+Average for matching genus without cluster -- 1control 2case
+0.020754716981132078
+Average for matching genus without cluster -- 2control 1case
+0.006289308176100629
+Average for matching genus with cluster -- 1control 2case
+0.4767295597484277
+Average for matching genus with cluster -- 2control 1case
+0.48238993710691835
+The pair of countries are Gambia      Mali       
+Matching 164 nodes with 10 seeds/communities
+Average for matching genus without cluster -- control
+0.023376623376623377
+Average for matching genus without cluster -- case
+0.04220779220779221
+Average for matching genus with cluster -- control
+0.46493506493506487
+Average for matching genus with cluster -- case
+0.527922077922078
+Average for matching genus without cluster -- 1control 2case
+0.02012987012987013
+Average for matching genus without cluster -- 2control 1case
+0.011688311688311689
+Average for matching genus with cluster -- 1control 2case
+0.45974025974025967
+Average for matching genus with cluster -- 2control 1case
+0.49935064935064927
+The pair of countries are Gambia      Mali       
+Matching 164 nodes with 15 seeds/communities
+Average for matching genus without cluster -- control
+0.021476510067114096
+Average for matching genus without cluster -- case
+0.04765100671140939
+Average for matching genus with cluster -- control
+0.44832214765100664
+Average for matching genus with cluster -- case
+0.5516778523489934
+Average for matching genus without cluster -- 1control 2case
+0.01208053691275168
+Average for matching genus without cluster -- 2control 1case
+0.011409395973154362
+Average for matching genus with cluster -- 1control 2case
+0.4536912751677852
+Average for matching genus with cluster -- 2control 1case
+0.49127516778523495
+The pair of countries are Gambia      Mali       
+Matching 164 nodes with 20 seeds/communities
+Average for matching genus without cluster -- control
+0.02708333333333333
+Average for matching genus without cluster -- case
+0.04930555555555556
+Average for matching genus with cluster -- control
+0.46597222222222223
+Average for matching genus with cluster -- case
+0.5798611111111112
+Average for matching genus without cluster -- 1control 2case
+0.01388888888888889
+Average for matching genus without cluster -- 2control 1case
+0.009722222222222222
+Average for matching genus with cluster -- 1control 2case
+0.4694444444444444
+Average for matching genus with cluster -- 2control 1case
+0.53125
+The pair of countries are Gambia      Mali       
+Matching 164 nodes with 25 seeds/communities
+Average for matching genus without cluster -- control
+0.027338129496402873
+Average for matching genus without cluster -- case
+0.05611510791366906
+Average for matching genus with cluster -- control
+0.46618705035971225
+Average for matching genus with cluster -- case
+0.5712230215827339
+Average for matching genus without cluster -- 1control 2case
+0.013669064748201436
+Average for matching genus without cluster -- 2control 1case
+0.01942446043165468
+Average for matching genus with cluster -- 1control 2case
+0.42014388489208637
+Average for matching genus with cluster -- 2control 1case
+0.5244604316546763
+The pair of countries are Gambia      Mali       
+Matching 164 nodes with 30 seeds/communities
+Average for matching genus without cluster -- control
+0.030597014925373135
+Average for matching genus without cluster -- case
+0.042537313432835816
+Average for matching genus with cluster -- control
+0.47611940298507466
+Average for matching genus with cluster -- case
+0.580597014925373
+Average for matching genus without cluster -- 1control 2case
+0.017164179104477612
+Average for matching genus without cluster -- 2control 1case
+0.013432835820895522
+Average for matching genus with cluster -- 1control 2case
+0.4455223880597015
+Average for matching genus with cluster -- 2control 1case
+0.5164179104477611
+The pair of countries are Gambia      Mali       
+Matching 164 nodes with 35 seeds/communities
+Average for matching genus without cluster -- control
+0.027131782945736434
+Average for matching genus without cluster -- case
+0.05193798449612404
+Average for matching genus with cluster -- control
+0.46976744186046515
+Average for matching genus with cluster -- case
+0.586046511627907
+Average for matching genus without cluster -- 1control 2case
+0.015503875968992248
+Average for matching genus without cluster -- 2control 1case
+0.010852713178294573
+Average for matching genus with cluster -- 1control 2case
+0.4558139534883721
+Average for matching genus with cluster -- 2control 1case
+0.5418604651162792
+The pair of countries are Gambia      Mali       
+Matching 164 nodes with 40 seeds/communities
+Average for matching genus without cluster -- control
+0.058064516129032254
+Average for matching genus without cluster -- case
+0.0935483870967742
+Average for matching genus with cluster -- control
+0.4677419354838709
+Average for matching genus with cluster -- case
+0.575
+Average for matching genus without cluster -- 1control 2case
+0.0282258064516129
+Average for matching genus without cluster -- 2control 1case
+0.013709677419354837
+Average for matching genus with cluster -- 1control 2case
+0.45967741935483863
+Average for matching genus with cluster -- 2control 1case
+0.542741935483871
+The pair of countries are Gambia      Mali       
+Matching 164 nodes with 45 seeds/communities
+Average for matching genus without cluster -- control
+0.04537815126050421
+Average for matching genus without cluster -- case
+0.06638655462184874
+Average for matching genus with cluster -- control
+0.46638655462184875
+Average for matching genus with cluster -- case
+0.5647058823529412
+Average for matching genus without cluster -- 1control 2case
+0.0319327731092437
+Average for matching genus without cluster -- 2control 1case
+0.001680672268907563
+Average for matching genus with cluster -- 1control 2case
+0.4428571428571429
+Average for matching genus with cluster -- 2control 1case
+0.5504201680672269
+----------------  SPECIES ---------------- 
+The pair of countries are Gambia      Mali       
+Matching 754 nodes with 0 seeds/communities
+Average for matching species without cluster -- control
+0.0034482758620689655
+Average for matching species without cluster -- case
+0.007161803713527851
+Average for matching species with cluster -- control
+0.3161803713527852
+Average for matching species with cluster -- case
+0.2960212201591512
+Average for matching species without cluster -- 1control 2case
+0.009814323607427056
+Average for matching species without cluster -- 2control 1case
+0.0034482758620689655
+Average for matching species with cluster -- 1control 2case
+0.3127320954907161
+Average for matching species with cluster -- 2control 1case
+0.28037135278514586
+The pair of countries are Gambia      Mali       
+Matching 754 nodes with 5 seeds/communities
+Average for matching species without cluster -- control
+0.003471295060080107
+Average for matching species without cluster -- case
+0.006942590120160214
+Average for matching species with cluster -- control
+0.3108144192256342
+Average for matching species with cluster -- case
+0.2998664886515353
+Average for matching species without cluster -- 1control 2case
+0.010413885180240319
+Average for matching species without cluster -- 2control 1case
+0.004005340453938585
+Average for matching species with cluster -- 1control 2case
+0.30707610146862485
+Average for matching species with cluster -- 2control 1case
+0.2841121495327103
+The pair of countries are Gambia      Mali       
+Matching 754 nodes with 20 seeds/communities
+Average for matching species without cluster -- control
+0.0032697547683923703
+Average for matching species without cluster -- case
+0.005994550408719346
+Average for matching species with cluster -- control
+0.3204359673024523
+Average for matching species with cluster -- case
+0.30354223433242505
+Average for matching species without cluster -- 1control 2case
+0.005722070844686648
+Average for matching species without cluster -- 2control 1case
+0.0027247956403269754
+Average for matching species with cluster -- 1control 2case
+0.30980926430517713
+Average for matching species with cluster -- 2control 1case
+0.2822888283378746
+The pair of countries are Gambia      Mali       
+Matching 754 nodes with 50 seeds/communities
+Average for matching species without cluster -- control
+0.003977272727272728
+Average for matching species without cluster -- case
+0.009375
+Average for matching species with cluster -- control
+0.3142045454545454
+Average for matching species with cluster -- case
+0.30426136363636364
+Average for matching species without cluster -- 1control 2case
+0.007954545454545454
+Average for matching species without cluster -- 2control 1case
+0.003977272727272727
+Average for matching species with cluster -- 1control 2case
+0.31619318181818185
+Average for matching species with cluster -- 2control 1case
+0.28835227272727265
+The pair of countries are Gambia      Mali       
+Matching 754 nodes with 100 seeds/communities
+Average for matching species without cluster -- control
+0.01253822629969419
+Average for matching species without cluster -- case
+0.012538226299694191
+Average for matching species with cluster -- control
+0.3308868501529052
+Average for matching species with cluster -- case
+0.3275229357798165
+Average for matching species without cluster -- 1control 2case
+0.007951070336391437
+Average for matching species without cluster -- 2control 1case
+0.004281345565749235
+Average for matching species with cluster -- 1control 2case
+0.3324159021406728
+Average for matching species with cluster -- 2control 1case
+0.3
+The pair of countries are Gambia      Mali       
+Matching 754 nodes with 200 seeds/communities
+Average for matching species without cluster -- control
+0.023104693140794226
+Average for matching species without cluster -- case
+0.014801444043321298
+Average for matching species with cluster -- control
+0.3570397111913357
+Average for matching species with cluster -- case
+0.33249097472924183
+Average for matching species without cluster -- 1control 2case
+0.011913357400722021
+Average for matching species without cluster -- 2control 1case
+0.007581227436823104
+Average for matching species with cluster -- 1control 2case
+0.3444043321299639
+Average for matching species with cluster -- 2control 1case
+0.3191335740072202
+The pair of countries are Gambia      Mali       
+Matching 754 nodes with 300 seeds/communities
+Average for matching species without cluster -- control
+0.035682819383259914
+Average for matching species without cluster -- case
+0.016740088105726872
+Average for matching species with cluster -- control
+0.3656387665198238
+Average for matching species with cluster -- case
+0.3405286343612335
+Average for matching species without cluster -- 1control 2case
+0.017621145374449337
+Average for matching species without cluster -- 2control 1case
+0.011894273127753303
+Average for matching species with cluster -- 1control 2case
+0.3722466960352423
+Average for matching species with cluster -- 2control 1case
+0.3422907488986784
+The pair of countries are Gambia      Kenya      Dimension of the matrix: [9, 18, 71, 164, 754]----------------  PHYLUM ---------------- 
+Matching 9 nodes with 3 seeds/communities
+Average for matching phylum without cluster -- control
+0.7777777777777778
+Average for matching phylum without cluster -- case
+0.7777777777777778
+Average for matching phylum with cluster -- control
+1.0
+Average for matching phylum with cluster -- case
+0.7777777777777778
+Average for matching phylum without cluster -- 1control 2case
+0.7777777777777778
+Average for matching phylum without cluster -- 2control 1case
+0.4444444444444445
+Average for matching phylum with cluster -- 1control 2case
+0.7777777777777778
+Average for matching phylum with cluster -- 2control 1case
+1.0
+Matching 9 nodes with 3 seeds/communities
+Average for matching phylum without cluster -- control
+1.0
+Average for matching phylum without cluster -- case
+0.75
+Average for matching phylum with cluster -- control
+1.0
+Average for matching phylum with cluster -- case
+0.75
+Average for matching phylum without cluster -- 1control 2case
+0.75
+Average for matching phylum without cluster -- 2control 1case
+0.625
+Average for matching phylum with cluster -- 1control 2case
+0.75
+Average for matching phylum with cluster -- 2control 1case
+1.0
+Matching 9 nodes with 3 seeds/communities
+Average for matching phylum without cluster -- control
+0.7142857142857143
+Average for matching phylum without cluster -- case
+1.0
+Average for matching phylum with cluster -- control
+1.0
+Average for matching phylum with cluster -- case
+0.7142857142857143
+Average for matching phylum without cluster -- 1control 2case
+0.7142857142857143
+Average for matching phylum without cluster -- 2control 1case
+0.7142857142857143
+Average for matching phylum with cluster -- 1control 2case
+0.7142857142857143
+Average for matching phylum with cluster -- 2control 1case
+1.0
+----------------  CLASS ---------------- 
+The pair of countries are Gambia      Kenya      
+Matching 18 nodes with 0 seeds/communities
+Average for matching class without cluster -- control
+0.4111111111111111
+Average for matching class without cluster -- case
+0.3666666666666667
+Average for matching class with cluster -- control
+0.7777777777777778
+Average for matching class with cluster -- case
+0.7777777777777778
+Average for matching class without cluster -- 1control 2case
+0.23888888888888887
+Average for matching class without cluster -- 2control 1case
+0.42222222222222217
+Average for matching class with cluster -- 1control 2case
+0.30808080808080807
+Average for matching class with cluster -- 2control 1case
+0.4646464646464646
+The pair of countries are Gambia      Kenya      
+Matching 18 nodes with 1 seeds/communities
+Average for matching class without cluster -- control
+0.37647058823529417
+Average for matching class without cluster -- case
+0.5058823529411764
+Average for matching class with cluster -- control
+0.7647058823529411
+Average for matching class with cluster -- case
+0.7647058823529411
+Average for matching class without cluster -- 1control 2case
+0.5823529411764705
+Average for matching class without cluster -- 2control 1case
+0.5235294117647059
+Average for matching class with cluster -- 1control 2case
+0.6203208556149732
+Average for matching class with cluster -- 2control 1case
+0.5561497326203209
+The pair of countries are Gambia      Kenya      
+Matching 18 nodes with 2 seeds/communities
+Average for matching class without cluster -- control
+0.3125
+Average for matching class without cluster -- case
+0.625
+Average for matching class with cluster -- control
+0.75
+Average for matching class with cluster -- case
+0.75
+Average for matching class without cluster -- 1control 2case
+0.5625
+Average for matching class without cluster -- 2control 1case
+0.49375
+Average for matching class with cluster -- 1control 2case
+0.6022727272727273
+Average for matching class with cluster -- 2control 1case
+0.5284090909090909
+The pair of countries are Gambia      Kenya      
+Matching 18 nodes with 3 seeds/communities
+Average for matching class without cluster -- control
+0.32666666666666666
+Average for matching class without cluster -- case
+0.5733333333333333
+Average for matching class with cluster -- control
+0.8666666666666668
+Average for matching class with cluster -- case
+0.7333333333333333
+Average for matching class without cluster -- 1control 2case
+0.6533333333333333
+Average for matching class without cluster -- 2control 1case
+0.5
+Average for matching class with cluster -- 1control 2case
+0.6848484848484848
+Average for matching class with cluster -- 2control 1case
+0.5454545454545454
+The pair of countries are Gambia      Kenya      
+Matching 18 nodes with 4 seeds/communities
+Average for matching class without cluster -- control
+0.4
+Average for matching class without cluster -- case
+0.5714285714285714
+Average for matching class with cluster -- control
+0.8571428571428571
+Average for matching class with cluster -- case
+0.7142857142857143
+Average for matching class without cluster -- 1control 2case
+0.7142857142857143
+Average for matching class without cluster -- 2control 1case
+0.6142857142857143
+Average for matching class with cluster -- 1control 2case
+0.7402597402597402
+Average for matching class with cluster -- 2control 1case
+0.6493506493506493
+The pair of countries are Gambia      Kenya      
+Matching 18 nodes with 5 seeds/communities
+Average for matching class without cluster -- control
+0.30769230769230765
+Average for matching class without cluster -- case
+0.49230769230769234
+Average for matching class with cluster -- control
+0.8461538461538461
+Average for matching class with cluster -- case
+0.6923076923076923
+Average for matching class without cluster -- 1control 2case
+0.6923076923076923
+Average for matching class without cluster -- 2control 1case
+0.5769230769230769
+Average for matching class with cluster -- 1control 2case
+0.7202797202797203
+Average for matching class with cluster -- 2control 1case
+0.6153846153846154
+----------------  FAMILY ---------------- 
+The pair of countries are Gambia      Kenya      
+Matching 71 nodes with 0 seeds/communities
+Average for matching family without cluster -- control
+0.11408450704225352
+Average for matching family without cluster -- case
+0.07464788732394367
+Average for matching family with cluster -- control
+0.7507042253521127
+Average for matching family with cluster -- case
+0.7267605633802816
+Average for matching family without cluster -- 1control 2case
+0.04084507042253521
+Average for matching family without cluster -- 2control 1case
+0.03661971830985915
+Average for matching family with cluster -- 1control 2case
+0.7070422535211268
+Average for matching family with cluster -- 2control 1case
+0.7802816901408451
+The pair of countries are Gambia      Kenya      
+Matching 71 nodes with 2 seeds/communities
+Average for matching family without cluster -- control
+0.10144927536231885
+Average for matching family without cluster -- case
+0.05217391304347826
+Average for matching family with cluster -- control
+0.7521739130434782
+Average for matching family with cluster -- case
+0.7231884057971014
+Average for matching family without cluster -- 1control 2case
+0.03188405797101449
+Average for matching family without cluster -- 2control 1case
+0.04927536231884058
+Average for matching family with cluster -- 1control 2case
+0.7014492753623189
+Average for matching family with cluster -- 2control 1case
+0.763768115942029
+The pair of countries are Gambia      Kenya      
+Matching 71 nodes with 4 seeds/communities
+Average for matching family without cluster -- control
+0.12686567164179105
+Average for matching family without cluster -- case
+0.07462686567164178
+Average for matching family with cluster -- control
+0.7388059701492538
+Average for matching family with cluster -- case
+0.7179104477611941
+Average for matching family without cluster -- 1control 2case
+0.08208955223880596
+Average for matching family without cluster -- 2control 1case
+0.06417910447761192
+Average for matching family with cluster -- 1control 2case
+0.7074626865671642
+Average for matching family with cluster -- 2control 1case
+0.7537313432835822
+The pair of countries are Gambia      Kenya      
+Matching 71 nodes with 6 seeds/communities
+Average for matching family without cluster -- control
+0.13846153846153847
+Average for matching family without cluster -- case
+0.07076923076923078
+Average for matching family with cluster -- control
+0.7276923076923077
+Average for matching family with cluster -- case
+0.716923076923077
+Average for matching family without cluster -- 1control 2case
+0.09538461538461539
+Average for matching family without cluster -- 2control 1case
+0.07692307692307694
+Average for matching family with cluster -- 1control 2case
+0.6923076923076923
+Average for matching family with cluster -- 2control 1case
+0.74
+The pair of countries are Gambia      Kenya      
+Matching 71 nodes with 8 seeds/communities
+Average for matching family without cluster -- control
+0.14126984126984127
+Average for matching family without cluster -- case
+0.08095238095238096
+Average for matching family with cluster -- control
+0.753968253968254
+Average for matching family with cluster -- case
+0.7031746031746031
+Average for matching family without cluster -- 1control 2case
+0.09206349206349206
+Average for matching family without cluster -- 2control 1case
+0.04285714285714286
+Average for matching family with cluster -- 1control 2case
+0.6857142857142857
+Average for matching family with cluster -- 2control 1case
+0.7523809523809524
+The pair of countries are Gambia      Kenya      
+Matching 71 nodes with 10 seeds/communities
+Average for matching family without cluster -- control
+0.14590163934426228
+Average for matching family without cluster -- case
+0.08360655737704918
+Average for matching family with cluster -- control
+0.7377049180327868
+Average for matching family with cluster -- case
+0.6852459016393443
+Average for matching family without cluster -- 1control 2case
+0.09508196721311475
+Average for matching family without cluster -- 2control 1case
+0.027868852459016397
+Average for matching family with cluster -- 1control 2case
+0.6852459016393443
+Average for matching family with cluster -- 2control 1case
+0.7196721311475411
+The pair of countries are Gambia      Kenya      
+Matching 71 nodes with 12 seeds/communities
+Average for matching family without cluster -- control
+0.21355932203389827
+Average for matching family without cluster -- case
+0.13559322033898308
+Average for matching family with cluster -- control
+0.7457627118644068
+Average for matching family with cluster -- case
+0.7050847457627119
+Average for matching family without cluster -- 1control 2case
+0.09152542372881356
+Average for matching family without cluster -- 2control 1case
+0.07457627118644068
+Average for matching family with cluster -- 1control 2case
+0.6847457627118644
+Average for matching family with cluster -- 2control 1case
+0.7881355932203389
+The pair of countries are Gambia      Kenya      
+Matching 71 nodes with 14 seeds/communities
+Average for matching family without cluster -- control
+0.2526315789473684
+Average for matching family without cluster -- case
+0.12631578947368421
+Average for matching family with cluster -- control
+0.7245614035087721
+Average for matching family with cluster -- case
+0.6982456140350877
+Average for matching family without cluster -- 1control 2case
+0.11228070175438595
+Average for matching family without cluster -- 2control 1case
+0.05964912280701755
+Average for matching family with cluster -- 1control 2case
+0.6807017543859649
+Average for matching family with cluster -- 2control 1case
+0.7684210526315789
+The pair of countries are Gambia      Kenya      
+Matching 71 nodes with 16 seeds/communities
+Average for matching family without cluster -- control
+0.27999999999999997
+Average for matching family without cluster -- case
+0.29454545454545455
+Average for matching family with cluster -- control
+0.7309090909090908
+Average for matching family with cluster -- case
+0.7109090909090909
+Average for matching family without cluster -- 1control 2case
+0.13818181818181816
+Average for matching family without cluster -- 2control 1case
+0.08181818181818182
+Average for matching family with cluster -- 1control 2case
+0.690909090909091
+Average for matching family with cluster -- 2control 1case
+0.7818181818181819
+The pair of countries are Gambia      Kenya      
+Matching 71 nodes with 18 seeds/communities
+Average for matching family without cluster -- control
+0.2830188679245283
+Average for matching family without cluster -- case
+0.2830188679245283
+Average for matching family with cluster -- control
+0.7283018867924528
+Average for matching family with cluster -- case
+0.7339622641509435
+Average for matching family without cluster -- 1control 2case
+0.1528301886792453
+Average for matching family without cluster -- 2control 1case
+0.07735849056603775
+Average for matching family with cluster -- 1control 2case
+0.7283018867924529
+Average for matching family with cluster -- 2control 1case
+0.7716981132075471
+----------------  GENUS ---------------- 
+The pair of countries are Gambia      Kenya      
+Matching 164 nodes with 0 seeds/communities
+Average for matching genus without cluster -- control
+0.02682926829268293
+Average for matching genus without cluster -- case
+0.027439024390243906
+Average for matching genus with cluster -- control
+0.47804878048780486
+Average for matching genus with cluster -- case
+0.46280487804878045
+Average for matching genus without cluster -- 1control 2case
+0.012804878048780489
+Average for matching genus without cluster -- 2control 1case
+0.01524390243902439
+Average for matching genus with cluster -- 1control 2case
+0.42317073170731706
+Average for matching genus with cluster -- 2control 1case
+0.4365853658536586
+The pair of countries are Gambia      Kenya      
+Matching 164 nodes with 5 seeds/communities
+Average for matching genus without cluster -- control
+0.03018867924528302
+Average for matching genus without cluster -- case
+0.03333333333333333
+Average for matching genus with cluster -- control
+0.4767295597484277
+Average for matching genus with cluster -- case
+0.4691823899371069
+Average for matching genus without cluster -- 1control 2case
+0.016352201257861635
+Average for matching genus without cluster -- 2control 1case
+0.018238993710691827
+Average for matching genus with cluster -- 1control 2case
+0.43081761006289304
+Average for matching genus with cluster -- 2control 1case
+0.43584905660377365
+The pair of countries are Gambia      Kenya      
+Matching 164 nodes with 10 seeds/communities
+Average for matching genus without cluster -- control
+0.02987012987012987
+Average for matching genus without cluster -- case
+0.03636363636363636
+Average for matching genus with cluster -- control
+0.4694805194805194
+Average for matching genus with cluster -- case
+0.47467532467532464
+Average for matching genus without cluster -- 1control 2case
+0.01753246753246753
+Average for matching genus without cluster -- 2control 1case
+0.024675324675324677
+Average for matching genus with cluster -- 1control 2case
+0.41688311688311686
+Average for matching genus with cluster -- 2control 1case
+0.4162337662337663
+The pair of countries are Gambia      Kenya      
+Matching 164 nodes with 15 seeds/communities
+Average for matching genus without cluster -- control
+0.032214765100671144
+Average for matching genus without cluster -- case
+0.043624161073825496
+Average for matching genus with cluster -- control
+0.4691275167785235
+Average for matching genus with cluster -- case
+0.47516778523489933
+Average for matching genus without cluster -- 1control 2case
+0.016778523489932886
+Average for matching genus without cluster -- 2control 1case
+0.02214765100671141
+Average for matching genus with cluster -- 1control 2case
+0.4026845637583893
+Average for matching genus with cluster -- 2control 1case
+0.4161073825503355
+The pair of countries are Gambia      Kenya      
+Matching 164 nodes with 20 seeds/communities
+Average for matching genus without cluster -- control
+0.04166666666666667
+Average for matching genus without cluster -- case
+0.03125
+Average for matching genus with cluster -- control
+0.4625
+Average for matching genus with cluster -- case
+0.4736111111111111
+Average for matching genus without cluster -- 1control 2case
+0.02291666666666667
+Average for matching genus without cluster -- 2control 1case
+0.018750000000000003
+Average for matching genus with cluster -- 1control 2case
+0.4034722222222221
+Average for matching genus with cluster -- 2control 1case
+0.41736111111111107
+The pair of countries are Gambia      Kenya      
+Matching 164 nodes with 25 seeds/communities
+Average for matching genus without cluster -- control
+0.03381294964028776
+Average for matching genus without cluster -- case
+0.07050359712230217
+Average for matching genus with cluster -- control
+0.47050359712230205
+Average for matching genus with cluster -- case
+0.46762589928057546
+Average for matching genus without cluster -- 1control 2case
+0.023741007194244608
+Average for matching genus without cluster -- 2control 1case
+0.00935251798561151
+Average for matching genus with cluster -- 1control 2case
+0.39496402877697845
+Average for matching genus with cluster -- 2control 1case
+0.44244604316546765
+The pair of countries are Gambia      Kenya      
+Matching 164 nodes with 30 seeds/communities
+Average for matching genus without cluster -- control
+0.02835820895522388
+Average for matching genus without cluster -- case
+0.07910447761194031
+Average for matching genus with cluster -- control
+0.49626865671641784
+Average for matching genus with cluster -- case
+0.4776119402985075
+Average for matching genus without cluster -- 1control 2case
+0.020895522388059702
+Average for matching genus without cluster -- 2control 1case
+0.003731343283582089
+Average for matching genus with cluster -- 1control 2case
+0.40373134328358207
+Average for matching genus with cluster -- 2control 1case
+0.44925373134328356
+The pair of countries are Gambia      Kenya      
+Matching 164 nodes with 35 seeds/communities
+Average for matching genus without cluster -- control
+0.03255813953488372
+Average for matching genus without cluster -- case
+0.07286821705426356
+Average for matching genus with cluster -- control
+0.506201550387597
+Average for matching genus with cluster -- case
+0.5155038759689923
+Average for matching genus without cluster -- 1control 2case
+0.02248062015503876
+Average for matching genus without cluster -- 2control 1case
+0.009302325581395349
+Average for matching genus with cluster -- 1control 2case
+0.42248062015503873
+Average for matching genus with cluster -- 2control 1case
+0.46434108527131784
+The pair of countries are Gambia      Kenya      
+Matching 164 nodes with 40 seeds/communities
+Average for matching genus without cluster -- control
+0.04516129032258065
+Average for matching genus without cluster -- case
+0.07258064516129033
+Average for matching genus with cluster -- control
+0.4919354838709678
+Average for matching genus with cluster -- case
+0.5088709677419354
+Average for matching genus without cluster -- 1control 2case
+0.03225806451612903
+Average for matching genus without cluster -- 2control 1case
+0.013709677419354837
+Average for matching genus with cluster -- 1control 2case
+0.4306451612903225
+Average for matching genus with cluster -- 2control 1case
+0.4758064516129033
+The pair of countries are Gambia      Kenya      
+Matching 164 nodes with 45 seeds/communities
+Average for matching genus without cluster -- control
+0.04537815126050421
+Average for matching genus without cluster -- case
+0.07899159663865546
+Average for matching genus with cluster -- control
+0.5092436974789916
+Average for matching genus with cluster -- case
+0.5453781512605043
+Average for matching genus without cluster -- 1control 2case
+0.037815126050420166
+Average for matching genus without cluster -- 2control 1case
+0.0226890756302521
+Average for matching genus with cluster -- 1control 2case
+0.44873949579831934
+Average for matching genus with cluster -- 2control 1case
+0.5058823529411764
+----------------  SPECIES ---------------- 
+The pair of countries are Gambia      Kenya      
+Matching 754 nodes with 0 seeds/communities
+Average for matching species without cluster -- control
+0.006100795755968171
+Average for matching species without cluster -- case
+0.007427055702917773
+Average for matching species with cluster -- control
+0.2946949602122016
+Average for matching species with cluster -- case
+0.310079575596817
+Average for matching species without cluster -- 1control 2case
+0.007161803713527852
+Average for matching species without cluster -- 2control 1case
+0.004509283819628647
+Average for matching species with cluster -- 1control 2case
+0.2992042440318302
+Average for matching species with cluster -- 2control 1case
+0.29681697612732094
+The pair of countries are Gambia      Kenya      
+Matching 754 nodes with 5 seeds/communities
+Average for matching species without cluster -- control
+0.005607476635514019
+Average for matching species without cluster -- case
+0.009612817089452604
+Average for matching species with cluster -- control
+0.29746328437917224
+Average for matching species with cluster -- case
+0.31829105473965286
+Average for matching species without cluster -- 1control 2case
+0.008277703604806409
+Average for matching species without cluster -- 2control 1case
+0.003204272363150868
+Average for matching species with cluster -- 1control 2case
+0.29425901201602134
+Average for matching species with cluster -- 2control 1case
+0.2953271028037383
+The pair of countries are Gambia      Kenya      
+Matching 754 nodes with 20 seeds/communities
+Average for matching species without cluster -- control
+0.008719346049046322
+Average for matching species without cluster -- case
+0.006811989100817438
+Average for matching species with cluster -- control
+0.29891008174386924
+Average for matching species with cluster -- case
+0.31689373297002726
+Average for matching species without cluster -- 1control 2case
+0.008991825613079018
+Average for matching species without cluster -- 2control 1case
+0.0068119891008174395
+Average for matching species with cluster -- 1control 2case
+0.29155313351498635
+Average for matching species with cluster -- 2control 1case
+0.2961852861035422
+The pair of countries are Gambia      Kenya      
+Matching 754 nodes with 50 seeds/communities
+Average for matching species without cluster -- control
+0.008806818181818183
+Average for matching species without cluster -- case
+0.007670454545454545
+Average for matching species with cluster -- control
+0.31875
+Average for matching species with cluster -- case
+0.30681818181818177
+Average for matching species without cluster -- 1control 2case
+0.006818181818181818
+Average for matching species without cluster -- 2control 1case
+0.009943181818181818
+Average for matching species with cluster -- 1control 2case
+0.2778409090909091
+Average for matching species with cluster -- 2control 1case
+0.3025568181818182
+The pair of countries are Gambia      Kenya      
+Matching 754 nodes with 100 seeds/communities
+Average for matching species without cluster -- control
+0.009785932721712538
+Average for matching species without cluster -- case
+0.010397553516819572
+Average for matching species with cluster -- control
+0.3299694189602447
+Average for matching species with cluster -- case
+0.3244648318042814
+Average for matching species without cluster -- 1control 2case
+0.013761467889908258
+Average for matching species without cluster -- 2control 1case
+0.00672782874617737
+Average for matching species with cluster -- 1control 2case
+0.2880733944954128
+Average for matching species with cluster -- 2control 1case
+0.3024464831804282
+The pair of countries are Gambia      Kenya      
+Matching 754 nodes with 200 seeds/communities
+Average for matching species without cluster -- control
+0.008664259927797836
+Average for matching species without cluster -- case
+0.015523465703971118
+Average for matching species with cluster -- control
+0.351985559566787
+Average for matching species with cluster -- case
+0.3364620938628159
+Average for matching species without cluster -- 1control 2case
+0.015884476534296026
+Average for matching species without cluster -- 2control 1case
+0.009386281588447653
+Average for matching species with cluster -- 1control 2case
+0.3252707581227437
+Average for matching species with cluster -- 2control 1case
+0.3296028880866426
+The pair of countries are Gambia      Kenya      
+Matching 754 nodes with 300 seeds/communities
+Average for matching species without cluster -- control
+0.01013215859030837
+Average for matching species without cluster -- case
+0.01365638766519824
+Average for matching species with cluster -- control
+0.3907488986784141
+Average for matching species with cluster -- case
+0.3722466960352423
+Average for matching species without cluster -- 1control 2case
+0.009251101321585905
+Average for matching species without cluster -- 2control 1case
+0.009251101321585903
+Average for matching species with cluster -- 1control 2case
+0.34493392070484585
+Average for matching species with cluster -- 2control 1case
+0.34273127753303967
+The pair of countries are Mali        Kenya      Dimension of the matrix: [9, 18, 71, 164, 754]----------------  PHYLUM ---------------- 
+Matching 9 nodes with 3 seeds/communities
+Average for matching phylum without cluster -- control
+0.33333333333333337
+Average for matching phylum without cluster -- case
+0.6888888888888889
+Average for matching phylum with cluster -- control
+1.0
+Average for matching phylum with cluster -- case
+1.0
+Average for matching phylum without cluster -- 1control 2case
+0.5555555555555556
+Average for matching phylum without cluster -- 2control 1case
+0.3111111111111111
+Average for matching phylum with cluster -- 1control 2case
+0.7777777777777778
+Average for matching phylum with cluster -- 2control 1case
+0.7777777777777778
+Matching 9 nodes with 3 seeds/communities
+Average for matching phylum without cluster -- control
+0.5
+Average for matching phylum without cluster -- case
+0.675
+Average for matching phylum with cluster -- control
+1.0
+Average for matching phylum with cluster -- case
+1.0
+Average for matching phylum without cluster -- 1control 2case
+0.5
+Average for matching phylum without cluster -- 2control 1case
+0.525
+Average for matching phylum with cluster -- 1control 2case
+0.75
+Average for matching phylum with cluster -- 2control 1case
+0.75
+Matching 9 nodes with 3 seeds/communities
+Average for matching phylum without cluster -- control
+0.7142857142857143
+Average for matching phylum without cluster -- case
+0.6857142857142857
+Average for matching phylum with cluster -- control
+1.0
+Average for matching phylum with cluster -- case
+1.0
+Average for matching phylum without cluster -- 1control 2case
+0.5714285714285714
+Average for matching phylum without cluster -- 2control 1case
+0.48571428571428565
+Average for matching phylum with cluster -- 1control 2case
+0.7142857142857143
+Average for matching phylum with cluster -- 2control 1case
+0.7142857142857143
+----------------  CLASS ---------------- 
+The pair of countries are Mali        Kenya      
+Matching 18 nodes with 0 seeds/communities
+Average for matching class without cluster -- control
+0.2777777777777778
+Average for matching class without cluster -- case
+0.43888888888888883
+Average for matching class with cluster -- control
+0.9222222222222222
+Average for matching class with cluster -- case
+0.888888888888889
+Average for matching class without cluster -- 1control 2case
+0.23333333333333334
+Average for matching class without cluster -- 2control 1case
+0.43888888888888894
+Average for matching class with cluster -- 1control 2case
+0.2828282828282828
+Average for matching class with cluster -- 2control 1case
+0.4696969696969697
+The pair of countries are Mali        Kenya      
+Matching 18 nodes with 1 seeds/communities
+Average for matching class without cluster -- control
+0.49411764705882355
+Average for matching class without cluster -- case
+0.6941176470588235
+Average for matching class with cluster -- control
+0.9294117647058823
+Average for matching class with cluster -- case
+0.8823529411764707
+Average for matching class without cluster -- 1control 2case
+0.6
+Average for matching class without cluster -- 2control 1case
+0.5117647058823529
+Average for matching class with cluster -- 1control 2case
+0.625668449197861
+Average for matching class with cluster -- 2control 1case
+0.53475935828877
+The pair of countries are Mali        Kenya      
+Matching 18 nodes with 2 seeds/communities
+Average for matching class without cluster -- control
+0.275
+Average for matching class without cluster -- case
+0.8
+Average for matching class with cluster -- control
+0.925
+Average for matching class with cluster -- case
+0.875
+Average for matching class without cluster -- 1control 2case
+0.7
+Average for matching class without cluster -- 2control 1case
+0.475
+Average for matching class with cluster -- 1control 2case
+0.7045454545454546
+Average for matching class with cluster -- 2control 1case
+0.5
+The pair of countries are Mali        Kenya      
+Matching 18 nodes with 3 seeds/communities
+Average for matching class without cluster -- control
+0.3066666666666667
+Average for matching class without cluster -- case
+0.78
+Average for matching class with cluster -- control
+1.0
+Average for matching class with cluster -- case
+0.8666666666666668
+Average for matching class without cluster -- 1control 2case
+0.49333333333333335
+Average for matching class without cluster -- 2control 1case
+0.4066666666666666
+Average for matching class with cluster -- 1control 2case
+0.5272727272727273
+Average for matching class with cluster -- 2control 1case
+0.4484848484848485
+The pair of countries are Mali        Kenya      
+Matching 18 nodes with 4 seeds/communities
+Average for matching class without cluster -- control
+0.6142857142857142
+Average for matching class without cluster -- case
+0.7642857142857142
+Average for matching class with cluster -- control
+1.0
+Average for matching class with cluster -- case
+0.8571428571428571
+Average for matching class without cluster -- 1control 2case
+0.4714285714285714
+Average for matching class without cluster -- 2control 1case
+0.5428571428571429
+Average for matching class with cluster -- 1control 2case
+0.5064935064935064
+Average for matching class with cluster -- 2control 1case
+0.5714285714285714
+The pair of countries are Mali        Kenya      
+Matching 18 nodes with 5 seeds/communities
+Average for matching class without cluster -- control
+0.7692307692307692
+Average for matching class without cluster -- case
+0.7461538461538462
+Average for matching class with cluster -- control
+1.0
+Average for matching class with cluster -- case
+0.8461538461538461
+Average for matching class without cluster -- 1control 2case
+0.7538461538461538
+Average for matching class without cluster -- 2control 1case
+0.5153846153846153
+Average for matching class with cluster -- 1control 2case
+0.7622377622377623
+Average for matching class with cluster -- 2control 1case
+0.5454545454545454
+----------------  FAMILY ---------------- 
+The pair of countries are Mali        Kenya      
+Matching 71 nodes with 0 seeds/communities
+Average for matching family without cluster -- control
+0.029577464788732393
+Average for matching family without cluster -- case
+0.06901408450704224
+Average for matching family with cluster -- control
+0.6591549295774648
+Average for matching family with cluster -- case
+0.6619718309859155
+Average for matching family without cluster -- 1control 2case
+0.011267605633802818
+Average for matching family without cluster -- 2control 1case
+0.09436619718309859
+Average for matching family with cluster -- 1control 2case
+0.6901408450704226
+Average for matching family with cluster -- 2control 1case
+0.6309859154929578
+The pair of countries are Mali        Kenya      
+Matching 71 nodes with 2 seeds/communities
+Average for matching family without cluster -- control
+0.03333333333333334
+Average for matching family without cluster -- case
+0.07681159420289856
+Average for matching family with cluster -- control
+0.6463768115942029
+Average for matching family with cluster -- case
+0.6565217391304349
+Average for matching family without cluster -- 1control 2case
+0.008695652173913044
+Average for matching family without cluster -- 2control 1case
+0.07971014492753623
+Average for matching family with cluster -- 1control 2case
+0.6855072463768116
+Average for matching family with cluster -- 2control 1case
+0.6478260869565218
+The pair of countries are Mali        Kenya      
+Matching 71 nodes with 4 seeds/communities
+Average for matching family without cluster -- control
+0.07313432835820895
+Average for matching family without cluster -- case
+0.10298507462686568
+Average for matching family with cluster -- control
+0.6388059701492537
+Average for matching family with cluster -- case
+0.6791044776119403
+Average for matching family without cluster -- 1control 2case
+0.04029850746268656
+Average for matching family without cluster -- 2control 1case
+0.06865671641791045
+Average for matching family with cluster -- 1control 2case
+0.7014925373134329
+Average for matching family with cluster -- 2control 1case
+0.6313432835820895
+The pair of countries are Mali        Kenya      
+Matching 71 nodes with 6 seeds/communities
+Average for matching family without cluster -- control
+0.053846153846153856
+Average for matching family without cluster -- case
+0.08153846153846155
+Average for matching family with cluster -- control
+0.64
+Average for matching family with cluster -- case
+0.6630769230769231
+Average for matching family without cluster -- 1control 2case
+0.04153846153846154
+Average for matching family without cluster -- 2control 1case
+0.09538461538461537
+Average for matching family with cluster -- 1control 2case
+0.673846153846154
+Average for matching family with cluster -- 2control 1case
+0.6230769230769232
+The pair of countries are Mali        Kenya      
+Matching 71 nodes with 8 seeds/communities
+Average for matching family without cluster -- control
+0.06507936507936507
+Average for matching family without cluster -- case
+0.08253968253968254
+Average for matching family with cluster -- control
+0.6523809523809524
+Average for matching family with cluster -- case
+0.6682539682539683
+Average for matching family without cluster -- 1control 2case
+0.03968253968253968
+Average for matching family without cluster -- 2control 1case
+0.09523809523809522
+Average for matching family with cluster -- 1control 2case
+0.6952380952380952
+Average for matching family with cluster -- 2control 1case
+0.6333333333333332
+The pair of countries are Mali        Kenya      
+Matching 71 nodes with 10 seeds/communities
+Average for matching family without cluster -- control
+0.06885245901639345
+Average for matching family without cluster -- case
+0.10655737704918031
+Average for matching family with cluster -- control
+0.6344262295081968
+Average for matching family with cluster -- case
+0.6622950819672131
+Average for matching family without cluster -- 1control 2case
+0.044262295081967204
+Average for matching family without cluster -- 2control 1case
+0.1
+Average for matching family with cluster -- 1control 2case
+0.6786885245901639
+Average for matching family with cluster -- 2control 1case
+0.6672131147540983
+The pair of countries are Mali        Kenya      
+Matching 71 nodes with 12 seeds/communities
+Average for matching family without cluster -- control
+0.13559322033898305
+Average for matching family without cluster -- case
+0.14915254237288136
+Average for matching family with cluster -- control
+0.6305084745762712
+Average for matching family with cluster -- case
+0.6694915254237288
+Average for matching family without cluster -- 1control 2case
+0.09661016949152543
+Average for matching family without cluster -- 2control 1case
+0.09661016949152543
+Average for matching family with cluster -- 1control 2case
+0.6728813559322033
+Average for matching family with cluster -- 2control 1case
+0.6966101694915253
+The pair of countries are Mali        Kenya      
+Matching 71 nodes with 14 seeds/communities
+Average for matching family without cluster -- control
+0.09824561403508772
+Average for matching family without cluster -- case
+0.14561403508771925
+Average for matching family with cluster -- control
+0.6421052631578947
+Average for matching family with cluster -- case
+0.656140350877193
+Average for matching family without cluster -- 1control 2case
+0.09473684210526315
+Average for matching family without cluster -- 2control 1case
+0.08421052631578946
+Average for matching family with cluster -- 1control 2case
+0.6631578947368421
+Average for matching family with cluster -- 2control 1case
+0.687719298245614
+The pair of countries are Mali        Kenya      
+Matching 71 nodes with 16 seeds/communities
+Average for matching family without cluster -- control
+0.2309090909090909
+Average for matching family without cluster -- case
+0.13818181818181816
+Average for matching family with cluster -- control
+0.6327272727272726
+Average for matching family with cluster -- case
+0.6545454545454545
+Average for matching family without cluster -- 1control 2case
+0.10363636363636364
+Average for matching family without cluster -- 2control 1case
+0.11636363636363636
+Average for matching family with cluster -- 1control 2case
+0.6781818181818181
+Average for matching family with cluster -- 2control 1case
+0.690909090909091
+The pair of countries are Mali        Kenya      
+Matching 71 nodes with 18 seeds/communities
+Average for matching family without cluster -- control
+0.23962264150943396
+Average for matching family without cluster -- case
+0.14150943396226415
+Average for matching family with cluster -- control
+0.6188679245283019
+Average for matching family with cluster -- case
+0.6867924528301886
+Average for matching family without cluster -- 1control 2case
+0.12452830188679245
+Average for matching family without cluster -- 2control 1case
+0.12641509433962264
+Average for matching family with cluster -- 1control 2case
+0.6962264150943395
+Average for matching family with cluster -- 2control 1case
+0.7132075471698114
+----------------  GENUS ---------------- 
+The pair of countries are Mali        Kenya      
+Matching 164 nodes with 0 seeds/communities
+Average for matching genus without cluster -- control
+0.013414634146341465
+Average for matching genus without cluster -- case
+0.0628048780487805
+Average for matching genus with cluster -- control
+0.3640243902439025
+Average for matching genus with cluster -- case
+0.41402439024390236
+Average for matching genus without cluster -- 1control 2case
+0.017073170731707322
+Average for matching genus without cluster -- 2control 1case
+0.00975609756097561
+Average for matching genus with cluster -- 1control 2case
+0.38902439024390245
+Average for matching genus with cluster -- 2control 1case
+0.40975609756097564
+The pair of countries are Mali        Kenya      
+Matching 164 nodes with 5 seeds/communities
+Average for matching genus without cluster -- control
+0.015723270440251576
+Average for matching genus without cluster -- case
+0.07169811320754717
+Average for matching genus with cluster -- control
+0.36855345911949683
+Average for matching genus with cluster -- case
+0.4025157232704403
+Average for matching genus without cluster -- 1control 2case
+0.0169811320754717
+Average for matching genus without cluster -- 2control 1case
+0.014465408805031447
+Average for matching genus with cluster -- 1control 2case
+0.3691823899371069
+Average for matching genus with cluster -- 2control 1case
+0.4182389937106918
+The pair of countries are Mali        Kenya      
+Matching 164 nodes with 10 seeds/communities
+Average for matching genus without cluster -- control
+0.00909090909090909
+Average for matching genus without cluster -- case
+0.06558441558441556
+Average for matching genus with cluster -- control
+0.37272727272727274
+Average for matching genus with cluster -- case
+0.39935064935064934
+Average for matching genus without cluster -- 1control 2case
+0.00974025974025974
+Average for matching genus without cluster -- 2control 1case
+0.008441558441558441
+Average for matching genus with cluster -- 1control 2case
+0.38441558441558443
+Average for matching genus with cluster -- 2control 1case
+0.4240259740259741
+The pair of countries are Mali        Kenya      
+Matching 164 nodes with 15 seeds/communities
+Average for matching genus without cluster -- control
+0.014765100671140941
+Average for matching genus without cluster -- case
+0.06241610738255034
+Average for matching genus with cluster -- control
+0.3516778523489933
+Average for matching genus with cluster -- case
+0.3832214765100671
+Average for matching genus without cluster -- 1control 2case
+0.01610738255033557
+Average for matching genus without cluster -- 2control 1case
+0.014093959731543626
+Average for matching genus with cluster -- 1control 2case
+0.3859060402684563
+Average for matching genus with cluster -- 2control 1case
+0.4174496644295302
+The pair of countries are Mali        Kenya      
+Matching 164 nodes with 20 seeds/communities
+Average for matching genus without cluster -- control
+0.014583333333333332
+Average for matching genus without cluster -- case
+0.07569444444444444
+Average for matching genus with cluster -- control
+0.3666666666666667
+Average for matching genus with cluster -- case
+0.37916666666666665
+Average for matching genus without cluster -- 1control 2case
+0.0125
+Average for matching genus without cluster -- 2control 1case
+0.028472222222222225
+Average for matching genus with cluster -- 1control 2case
+0.38819444444444445
+Average for matching genus with cluster -- 2control 1case
+0.4395833333333333
+The pair of countries are Mali        Kenya      
+Matching 164 nodes with 25 seeds/communities
+Average for matching genus without cluster -- control
+0.07338129496402876
+Average for matching genus without cluster -- case
+0.07266187050359711
+Average for matching genus with cluster -- control
+0.3906474820143885
+Average for matching genus with cluster -- case
+0.37841726618705035
+Average for matching genus without cluster -- 1control 2case
+0.017985611510791366
+Average for matching genus without cluster -- 2control 1case
+0.023741007194244608
+Average for matching genus with cluster -- 1control 2case
+0.3575539568345324
+Average for matching genus with cluster -- 2control 1case
+0.42230215827338136
+The pair of countries are Mali        Kenya      
+Matching 164 nodes with 30 seeds/communities
+Average for matching genus without cluster -- control
+0.0791044776119403
+Average for matching genus without cluster -- case
+0.0955223880597015
+Average for matching genus with cluster -- control
+0.3977611940298508
+Average for matching genus with cluster -- case
+0.4231343283582089
+Average for matching genus without cluster -- 1control 2case
+0.01641791044776119
+Average for matching genus without cluster -- 2control 1case
+0.041044776119402986
+Average for matching genus with cluster -- 1control 2case
+0.36716417910447763
+Average for matching genus with cluster -- 2control 1case
+0.42462686567164176
+The pair of countries are Mali        Kenya      
+Matching 164 nodes with 35 seeds/communities
+Average for matching genus without cluster -- control
+0.0806201550387597
+Average for matching genus without cluster -- case
+0.09379844961240309
+Average for matching genus with cluster -- control
+0.4263565891472868
+Average for matching genus with cluster -- case
+0.4542635658914729
+Average for matching genus without cluster -- 1control 2case
+0.015503875968992248
+Average for matching genus without cluster -- 2control 1case
+0.03488372093023255
+Average for matching genus with cluster -- 1control 2case
+0.39069767441860465
+Average for matching genus with cluster -- 2control 1case
+0.46899224806201556
+The pair of countries are Mali        Kenya      
+Matching 164 nodes with 40 seeds/communities
+Average for matching genus without cluster -- control
+0.08548387096774195
+Average for matching genus without cluster -- case
+0.0935483870967742
+Average for matching genus with cluster -- control
+0.425
+Average for matching genus with cluster -- case
+0.4516129032258064
+Average for matching genus without cluster -- 1control 2case
+0.018548387096774192
+Average for matching genus without cluster -- 2control 1case
+0.0282258064516129
+Average for matching genus with cluster -- 1control 2case
+0.38870967741935486
+Average for matching genus with cluster -- 2control 1case
+0.4508064516129032
+The pair of countries are Mali        Kenya      
+Matching 164 nodes with 45 seeds/communities
+Average for matching genus without cluster -- control
+0.07058823529411765
+Average for matching genus without cluster -- case
+0.09831932773109245
+Average for matching genus with cluster -- control
+0.426890756302521
+Average for matching genus with cluster -- case
+0.46302521008403363
+Average for matching genus without cluster -- 1control 2case
+0.034453781512605045
+Average for matching genus without cluster -- 2control 1case
+0.018487394957983194
+Average for matching genus with cluster -- 1control 2case
+0.3966386554621849
+Average for matching genus with cluster -- 2control 1case
+0.46974789915966386
+----------------  SPECIES ---------------- 
+The pair of countries are Mali        Kenya      
+Matching 754 nodes with 0 seeds/communities
+Average for matching species without cluster -- control
+0.007957559681697614
+Average for matching species without cluster -- case
+0.004244031830238726
+Average for matching species with cluster -- control
+0.2891246684350133
+Average for matching species with cluster -- case
+0.3
+Average for matching species without cluster -- 1control 2case
+0.0
+Average for matching species without cluster -- 2control 1case
+0.003978779840848806
+Average for matching species with cluster -- 1control 2case
+0.270026525198939
+Average for matching species with cluster -- 2control 1case
+0.29257294429708225
+The pair of countries are Mali        Kenya      
+Matching 754 nodes with 5 seeds/communities
+Average for matching species without cluster -- control
+0.008544726301735648
+Average for matching species without cluster -- case
+0.004272363150867824
+Average for matching species with cluster -- control
+0.2966622162883845
+Average for matching species with cluster -- case
+0.3102803738317757
+Average for matching species without cluster -- 1control 2case
+0.001068090787716956
+Average for matching species without cluster -- 2control 1case
+0.006408544726301736
+Average for matching species with cluster -- 1control 2case
+0.28037383177570097
+Average for matching species with cluster -- 2control 1case
+0.29399198931909215
+The pair of countries are Mali        Kenya      
+Matching 754 nodes with 20 seeds/communities
+Average for matching species without cluster -- control
+0.010899182561307902
+Average for matching species without cluster -- case
+0.009809264305177113
+Average for matching species with cluster -- control
+0.27929155313351495
+Average for matching species with cluster -- case
+0.30217983651226155
+Average for matching species without cluster -- 1control 2case
+0.0010899182561307902
+Average for matching species without cluster -- 2control 1case
+0.005449591280653951
+Average for matching species with cluster -- 1control 2case
+0.26920980926430516
+Average for matching species with cluster -- 2control 1case
+0.2893732970027248
+The pair of countries are Mali        Kenya      
+Matching 754 nodes with 50 seeds/communities
+Average for matching species without cluster -- control
+0.010511363636363635
+Average for matching species without cluster -- case
+0.011079545454545455
+Average for matching species with cluster -- control
+0.2872159090909091
+Average for matching species with cluster -- case
+0.3014204545454545
+Average for matching species without cluster -- 1control 2case
+0.0008522727272727272
+Average for matching species without cluster -- 2control 1case
+0.006534090909090909
+Average for matching species with cluster -- 1control 2case
+0.2696022727272728
+Average for matching species with cluster -- 2control 1case
+0.28892045454545456
+The pair of countries are Mali        Kenya      
+Matching 754 nodes with 100 seeds/communities
+Average for matching species without cluster -- control
+0.006422018348623852
+Average for matching species without cluster -- case
+0.009174311926605503
+Average for matching species with cluster -- control
+0.2944954128440367
+Average for matching species with cluster -- case
+0.3253822629969419
+Average for matching species without cluster -- 1control 2case
+0.0030581039755351687
+Average for matching species without cluster -- 2control 1case
+0.00672782874617737
+Average for matching species with cluster -- 1control 2case
+0.28837920489296637
+Average for matching species with cluster -- 2control 1case
+0.300611620795107
+The pair of countries are Mali        Kenya      
+Matching 754 nodes with 200 seeds/communities
+Average for matching species without cluster -- control
+0.02563176895306859
+Average for matching species without cluster -- case
+0.015884476534296026
+Average for matching species with cluster -- control
+0.30361010830324914
+Average for matching species with cluster -- case
+0.3386281588447654
+Average for matching species without cluster -- 1control 2case
+0.006498194945848375
+Average for matching species without cluster -- 2control 1case
+0.005415162454873647
+Average for matching species with cluster -- 1control 2case
+0.28050541516245486
+Average for matching species with cluster -- 2control 1case
+0.2963898916967509
+The pair of countries are Mali        Kenya      
+Matching 754 nodes with 300 seeds/communities
+Average for matching species without cluster -- control
+0.025991189427312777
+Average for matching species without cluster -- case
+0.014977973568281937
+Average for matching species with cluster -- control
+0.33568281938325994
+Average for matching species with cluster -- case
+0.35594713656387666
+Average for matching species without cluster -- 1control 2case
+0.007048458149779736
+Average for matching species without cluster -- 2control 1case
+0.003964757709251102
+Average for matching species with cluster -- 1control 2case
+0.3158590308370044
+Average for matching species with cluster -- 2control 1case
+0.32246696035242295

@@ -1,0 +1,1047 @@
+﻿——— 10 iterations within-country ———
+Dimension of the matrix: [9, 18, 71, 164, 754]
+Number of seeds/minimum number of seeds/number of communties: [3, 7, 24, 29, 110]
+Country: Gambia     
+----------------  PHYLUM ---------------- 
+---------------------------------------------------------------
+Matching 9 nodes with 0 seeds/communities
+Average for matching phylum without cluster
+0.6666666666666666
+Average for matching phylum with cluster
+0.7777777777777778
+---------------------------------------------------------------
+Matching 9 nodes with 1 seeds/communities
+Average for matching phylum without cluster
+0.625
+Average for matching phylum with cluster
+0.75
+---------------------------------------------------------------
+Matching 9 nodes with 2 seeds/communities
+Average for matching phylum without cluster
+0.7142857142857143
+Average for matching phylum with cluster
+1.0
+----------------  CLASS ---------------- 
+---------------------------------------------------------------
+Matching 18 nodes with 0 seeds/communities
+Average for matching class without cluster
+0.34444444444444444
+Average for matching class with cluster
+0.888888888888889
+---------------------------------------------------------------
+Matching 18 nodes with 1 seeds/communities
+Average for matching class without cluster
+0.6
+Average for matching class with cluster
+0.8823529411764707
+---------------------------------------------------------------
+Matching 18 nodes with 2 seeds/communities
+Average for matching class without cluster
+0.5375
+Average for matching class with cluster
+0.875
+---------------------------------------------------------------
+Matching 18 nodes with 3 seeds/communities
+Average for matching class without cluster
+0.6
+Average for matching class with cluster
+0.8666666666666668
+---------------------------------------------------------------
+Matching 18 nodes with 4 seeds/communities
+Average for matching class without cluster
+0.5714285714285714
+Average for matching class with cluster
+0.8571428571428571
+---------------------------------------------------------------
+Matching 18 nodes with 5 seeds/communities
+Average for matching class without cluster
+0.5384615384615384
+Average for matching class with cluster
+0.8461538461538461
+---------------------------------------------------------------
+Matching 18 nodes with 6 seeds/communities
+Average for matching class without cluster
+0.5
+Average for matching class with cluster
+1.0
+----------------  FAMILY ---------------- 
+---------------------------------------------------------------
+Matching 71 nodes with 0 seeds/communities
+Average for matching family without cluster
+0.029577464788732393
+Average for matching family with cluster
+0.8408450704225352
+---------------------------------------------------------------
+Matching 71 nodes with 2 seeds/communities
+Average for matching family without cluster
+0.039130434782608706
+Average for matching family with cluster
+0.8304347826086957
+---------------------------------------------------------------
+Matching 71 nodes with 4 seeds/communities
+Average for matching family without cluster
+0.04776119402985074
+Average for matching family with cluster
+0.8373134328358208
+---------------------------------------------------------------
+Matching 71 nodes with 6 seeds/communities
+Average for matching family without cluster
+0.06923076923076923
+Average for matching family with cluster
+0.813846153846154
+---------------------------------------------------------------
+Matching 71 nodes with 8 seeds/communities
+Average for matching family without cluster
+0.06349206349206349
+Average for matching family with cluster
+0.8333333333333333
+---------------------------------------------------------------
+Matching 71 nodes with 10 seeds/communities
+Average for matching family without cluster
+0.0901639344262295
+Average for matching family with cluster
+0.8295081967213115
+---------------------------------------------------------------
+Matching 71 nodes with 12 seeds/communities
+Average for matching family without cluster
+0.01694915254237288
+Average for matching family with cluster
+0.8050847457627119
+---------------------------------------------------------------
+Matching 71 nodes with 14 seeds/communities
+Average for matching family without cluster
+0.043859649122807015
+Average for matching family with cluster
+0.8245614035087719
+---------------------------------------------------------------
+Matching 71 nodes with 16 seeds/communities
+Average for matching family without cluster
+0.13999999999999999
+Average for matching family with cluster
+0.8018181818181818
+---------------------------------------------------------------
+Matching 71 nodes with 18 seeds/communities
+Average for matching family without cluster
+0.16226415094339625
+Average for matching family with cluster
+0.8226415094339622
+---------------------------------------------------------------
+Matching 71 nodes with 20 seeds/communities
+Average for matching family without cluster
+0.13725490196078433
+Average for matching family with cluster
+0.8450980392156863
+---------------------------------------------------------------
+Matching 71 nodes with 22 seeds/communities
+Average for matching family without cluster
+0.16326530612244897
+Average for matching family with cluster
+0.8816326530612244
+---------------------------------------------------------------
+Matching 71 nodes with 24 seeds/communities
+Average for matching family without cluster
+0.15744680851063828
+Average for matching family with cluster
+0.8659574468085107
+---------------------------------------------------------------
+Matching 71 nodes with 26 seeds/communities
+Average for matching family without cluster
+0.1622222222222222
+Average for matching family with cluster
+0.8977777777777778
+---------------------------------------------------------------
+Matching 71 nodes with 28 seeds/communities
+Average for matching family without cluster
+0.1697674418604651
+Average for matching family with cluster
+0.9209302325581395
+----------------  GENUS ---------------- 
+---------------------------------------------------------------
+Matching 164 nodes with 0 seeds/communities
+Average for matching genus without cluster
+0.011585365853658536
+Average for matching genus with cluster
+0.4926829268292683
+---------------------------------------------------------------
+Matching 164 nodes with 5 seeds/communities
+Average for matching genus without cluster
+0.013207547169811321
+Average for matching genus with cluster
+0.4867924528301887
+---------------------------------------------------------------
+Matching 164 nodes with 10 seeds/communities
+Average for matching genus without cluster
+0.01818181818181818
+Average for matching genus with cluster
+0.4779220779220779
+---------------------------------------------------------------
+Matching 164 nodes with 15 seeds/communities
+Average for matching genus without cluster
+0.02416107382550336
+Average for matching genus with cluster
+0.4818791946308725
+---------------------------------------------------------------
+Matching 164 nodes with 20 seeds/communities
+Average for matching genus without cluster
+0.01666666666666667
+Average for matching genus with cluster
+0.4770833333333333
+---------------------------------------------------------------
+Matching 164 nodes with 25 seeds/communities
+Average for matching genus without cluster
+0.031654676258992806
+Average for matching genus with cluster
+0.48345323741007185
+---------------------------------------------------------------
+Matching 164 nodes with 30 seeds/communities
+Average for matching genus without cluster
+0.02014925373134328
+Average for matching genus with cluster
+0.49029850746268655
+---------------------------------------------------------------
+Matching 164 nodes with 35 seeds/communities
+Average for matching genus without cluster
+0.01705426356589147
+Average for matching genus with cluster
+0.49302325581395345
+---------------------------------------------------------------
+Matching 164 nodes with 40 seeds/communities
+Average for matching genus without cluster
+0.013709677419354837
+Average for matching genus with cluster
+0.5064516129032258
+---------------------------------------------------------------
+Matching 164 nodes with 45 seeds/communities
+Average for matching genus without cluster
+0.003361344537815126
+Average for matching genus with cluster
+0.5016806722689076
+----------------  SPECIES ---------------- 
+Matching 754 nodes with 0 seeds/communities
+Average for matching species without cluster
+0.00610079575596817
+Average for matching species with cluster
+0.3561007957559682
+Matching 754 nodes with 5 seeds/communities
+Average for matching species without cluster
+0.0072096128170894514
+Average for matching species with cluster
+0.35273698264352465
+Matching 754 nodes with 10 seeds/communities
+Average for matching species without cluster
+0.005510752688172043
+Average for matching species with cluster
+0.3536290322580645
+Matching 754 nodes with 50 seeds/communities
+Average for matching species without cluster
+0.00909090909090909
+Average for matching species with cluster
+0.3553977272727273
+Matching 754 nodes with 100 seeds/communities
+Average for matching species without cluster
+0.009174311926605505
+Average for matching species with cluster
+0.34403669724770647
+Matching 754 nodes with 150 seeds/communities
+Average for matching species without cluster
+0.00894039735099338
+Average for matching species with cluster
+0.3528145695364238
+Matching 754 nodes with 200 seeds/communities
+Average for matching species without cluster
+0.010288808664259928
+Average for matching species with cluster
+0.3698555956678701
+Matching 754 nodes with 250 seeds/communities
+Average for matching species without cluster
+0.014484126984126983
+Average for matching species with cluster
+0.40496031746031746
+Matching 754 nodes with 300 seeds/communities
+Average for matching species without cluster
+0.010352422907488988
+Average for matching species with cluster
+0.3966960352422907
+Country: Mali       
+----------------  PHYLUM ---------------- 
+---------------------------------------------------------------
+Matching 9 nodes with 0 seeds/communities
+Average for matching phylum without cluster
+0.5777777777777777
+Average for matching phylum with cluster
+0.7777777777777778
+---------------------------------------------------------------
+Matching 9 nodes with 1 seeds/communities
+Average for matching phylum without cluster
+0.575
+Average for matching phylum with cluster
+0.75
+---------------------------------------------------------------
+Matching 9 nodes with 2 seeds/communities
+Average for matching phylum without cluster
+0.5428571428571428
+Average for matching phylum with cluster
+0.7142857142857143
+----------------  CLASS ---------------- 
+---------------------------------------------------------------
+Matching 18 nodes with 0 seeds/communities
+Average for matching class without cluster
+0.23333333333333334
+Average for matching class with cluster
+0.711111111111111
+---------------------------------------------------------------
+Matching 18 nodes with 1 seeds/communities
+Average for matching class without cluster
+0.2823529411764706
+Average for matching class with cluster
+0.7176470588235293
+---------------------------------------------------------------
+Matching 18 nodes with 2 seeds/communities
+Average for matching class without cluster
+0.3125
+Average for matching class with cluster
+0.7
+---------------------------------------------------------------
+Matching 18 nodes with 3 seeds/communities
+Average for matching class without cluster
+0.3733333333333333
+Average for matching class with cluster
+0.7333333333333333
+---------------------------------------------------------------
+Matching 18 nodes with 4 seeds/communities
+Average for matching class without cluster
+0.32857142857142857
+Average for matching class with cluster
+0.7142857142857143
+---------------------------------------------------------------
+Matching 18 nodes with 5 seeds/communities
+Average for matching class without cluster
+0.4153846153846154
+Average for matching class with cluster
+0.6923076923076923
+---------------------------------------------------------------
+Matching 18 nodes with 6 seeds/communities
+Average for matching class without cluster
+0.5166666666666667
+Average for matching class with cluster
+1.0
+----------------  FAMILY ---------------- 
+---------------------------------------------------------------
+Matching 71 nodes with 0 seeds/communities
+Average for matching family without cluster
+0.018309859154929577
+Average for matching family with cluster
+0.7732394366197183
+---------------------------------------------------------------
+Matching 71 nodes with 2 seeds/communities
+Average for matching family without cluster
+0.007246376811594203
+Average for matching family with cluster
+0.7594202898550725
+---------------------------------------------------------------
+Matching 71 nodes with 4 seeds/communities
+Average for matching family without cluster
+0.0029850746268656717
+Average for matching family with cluster
+0.7791044776119402
+---------------------------------------------------------------
+Matching 71 nodes with 6 seeds/communities
+Average for matching family without cluster
+0.013846153846153847
+Average for matching family with cluster
+0.7661538461538461
+---------------------------------------------------------------
+Matching 71 nodes with 8 seeds/communities
+Average for matching family without cluster
+0.012698412698412698
+Average for matching family with cluster
+0.753968253968254
+---------------------------------------------------------------
+Matching 71 nodes with 10 seeds/communities
+Average for matching family without cluster
+0.02622950819672131
+Average for matching family with cluster
+0.7573770491803279
+---------------------------------------------------------------
+Matching 71 nodes with 12 seeds/communities
+Average for matching family without cluster
+0.01694915254237288
+Average for matching family with cluster
+0.7508474576271186
+---------------------------------------------------------------
+Matching 71 nodes with 14 seeds/communities
+Average for matching family without cluster
+0.021052631578947368
+Average for matching family with cluster
+0.7666666666666666
+---------------------------------------------------------------
+Matching 71 nodes with 16 seeds/communities
+Average for matching family without cluster
+0.050909090909090904
+Average for matching family with cluster
+0.7545454545454546
+---------------------------------------------------------------
+Matching 71 nodes with 18 seeds/communities
+Average for matching family without cluster
+0.052830188679245285
+Average for matching family with cluster
+0.7830188679245284
+---------------------------------------------------------------
+Matching 71 nodes with 20 seeds/communities
+Average for matching family without cluster
+0.041176470588235294
+Average for matching family with cluster
+0.8156862745098039
+---------------------------------------------------------------
+Matching 71 nodes with 22 seeds/communities
+Average for matching family without cluster
+0.0326530612244898
+Average for matching family with cluster
+0.8612244897959183
+---------------------------------------------------------------
+Matching 71 nodes with 24 seeds/communities
+Average for matching family without cluster
+0.0851063829787234
+Average for matching family with cluster
+0.8319148936170212
+---------------------------------------------------------------
+Matching 71 nodes with 26 seeds/communities
+Average for matching family without cluster
+0.08222222222222222
+Average for matching family with cluster
+0.8844444444444445
+---------------------------------------------------------------
+Matching 71 nodes with 28 seeds/communities
+Average for matching family without cluster
+0.07674418604651162
+Average for matching family with cluster
+0.8976744186046511
+----------------  GENUS ---------------- 
+---------------------------------------------------------------
+Matching 164 nodes with 0 seeds/communities
+Average for matching genus without cluster
+0.00853658536585366
+Average for matching genus with cluster
+0.4518292682926829
+---------------------------------------------------------------
+Matching 164 nodes with 5 seeds/communities
+Average for matching genus without cluster
+0.001257861635220126
+Average for matching genus with cluster
+0.449685534591195
+---------------------------------------------------------------
+Matching 164 nodes with 10 seeds/communities
+Average for matching genus without cluster
+0.005844155844155844
+Average for matching genus with cluster
+0.44545454545454544
+---------------------------------------------------------------
+Matching 164 nodes with 15 seeds/communities
+Average for matching genus without cluster
+0.0087248322147651
+Average for matching genus with cluster
+0.4536912751677852
+---------------------------------------------------------------
+Matching 164 nodes with 20 seeds/communities
+Average for matching genus without cluster
+0.006944444444444445
+Average for matching genus with cluster
+0.4298611111111111
+---------------------------------------------------------------
+Matching 164 nodes with 25 seeds/communities
+Average for matching genus without cluster
+0.0057553956834532375
+Average for matching genus with cluster
+0.40935251798561156
+---------------------------------------------------------------
+Matching 164 nodes with 30 seeds/communities
+Average for matching genus without cluster
+0.010447761194029851
+Average for matching genus with cluster
+0.4044776119402985
+---------------------------------------------------------------
+Matching 164 nodes with 35 seeds/communities
+Average for matching genus without cluster
+0.0069767441860465115
+Average for matching genus with cluster
+0.40852713178294575
+---------------------------------------------------------------
+Matching 164 nodes with 40 seeds/communities
+Average for matching genus without cluster
+0.012903225806451613
+Average for matching genus with cluster
+0.4330645161290323
+---------------------------------------------------------------
+Matching 164 nodes with 45 seeds/communities
+Average for matching genus without cluster
+0.006722689075630252
+Average for matching genus with cluster
+0.42100840336134454
+----------------  SPECIES ---------------- 
+Matching 754 nodes with 0 seeds/communities
+Average for matching species without cluster
+0.004641909814323608
+Average for matching species with cluster
+0.3023872679045093
+Matching 754 nodes with 5 seeds/communities
+Average for matching species without cluster
+0.0054739652870494
+Average for matching species with cluster
+0.3022696929238985
+Matching 754 nodes with 10 seeds/communities
+Average for matching species without cluster
+0.0036290322580645163
+Average for matching species with cluster
+0.3028225806451613
+Matching 754 nodes with 50 seeds/communities
+Average for matching species without cluster
+0.004971590909090909
+Average for matching species with cluster
+0.31335227272727273
+Matching 754 nodes with 100 seeds/communities
+Average for matching species without cluster
+0.002446483180428135
+Average for matching species with cluster
+0.33272171253822636
+Matching 754 nodes with 150 seeds/communities
+Average for matching species without cluster
+0.004304635761589404
+Average for matching species with cluster
+0.3144039735099338
+Matching 754 nodes with 200 seeds/communities
+Average for matching species without cluster
+0.005054151624548736
+Average for matching species with cluster
+0.3243682310469314
+Matching 754 nodes with 250 seeds/communities
+Average for matching species without cluster
+0.009722222222222222
+Average for matching species with cluster
+0.3416666666666667
+Matching 754 nodes with 300 seeds/communities
+Average for matching species without cluster
+0.010572687224669603
+Average for matching species with cluster
+0.35
+Country: Kenya      
+----------------  PHYLUM ---------------- 
+---------------------------------------------------------------
+Matching 9 nodes with 0 seeds/communities
+Average for matching phylum without cluster
+0.5555555555555556
+Average for matching phylum with cluster
+0.5555555555555556
+---------------------------------------------------------------
+Matching 9 nodes with 1 seeds/communities
+Average for matching phylum without cluster
+0.75
+Average for matching phylum with cluster
+0.5
+---------------------------------------------------------------
+Matching 9 nodes with 2 seeds/communities
+Average for matching phylum without cluster
+0.5714285714285714
+Average for matching phylum with cluster
+0.42857142857142855
+----------------  CLASS ---------------- 
+---------------------------------------------------------------
+Matching 18 nodes with 0 seeds/communities
+Average for matching class without cluster
+0.5666666666666667
+Average for matching class with cluster
+0.7777777777777778
+---------------------------------------------------------------
+Matching 18 nodes with 1 seeds/communities
+Average for matching class without cluster
+0.47058823529411764
+Average for matching class with cluster
+0.7647058823529411
+---------------------------------------------------------------
+Matching 18 nodes with 2 seeds/communities
+Average for matching class without cluster
+0.8
+Average for matching class with cluster
+0.75
+---------------------------------------------------------------
+Matching 18 nodes with 3 seeds/communities
+Average for matching class without cluster
+0.8133333333333332
+Average for matching class with cluster
+0.8666666666666668
+---------------------------------------------------------------
+Matching 18 nodes with 4 seeds/communities
+Average for matching class without cluster
+0.8
+Average for matching class with cluster
+0.8571428571428571
+---------------------------------------------------------------
+Matching 18 nodes with 5 seeds/communities
+Average for matching class without cluster
+0.7538461538461538
+Average for matching class with cluster
+0.8461538461538461
+---------------------------------------------------------------
+Matching 18 nodes with 6 seeds/communities
+Average for matching class without cluster
+0.9
+Average for matching class with cluster
+1.0
+----------------  FAMILY ---------------- 
+---------------------------------------------------------------
+Matching 71 nodes with 0 seeds/communities
+Average for matching family without cluster
+0.05633802816901408
+Average for matching family with cluster
+0.8464788732394366
+---------------------------------------------------------------
+Matching 71 nodes with 2 seeds/communities
+Average for matching family without cluster
+0.0608695652173913
+Average for matching family with cluster
+0.8391304347826086
+---------------------------------------------------------------
+Matching 71 nodes with 4 seeds/communities
+Average for matching family without cluster
+0.07611940298507461
+Average for matching family with cluster
+0.8582089552238805
+---------------------------------------------------------------
+Matching 71 nodes with 6 seeds/communities
+Average for matching family without cluster
+0.07076923076923078
+Average for matching family with cluster
+0.8507692307692307
+---------------------------------------------------------------
+Matching 71 nodes with 8 seeds/communities
+Average for matching family without cluster
+0.06349206349206349
+Average for matching family with cluster
+0.8603174603174603
+---------------------------------------------------------------
+Matching 71 nodes with 10 seeds/communities
+Average for matching family without cluster
+0.0819672131147541
+Average for matching family with cluster
+0.8573770491803279
+---------------------------------------------------------------
+Matching 71 nodes with 12 seeds/communities
+Average for matching family without cluster
+0.12711864406779663
+Average for matching family with cluster
+0.8610169491525423
+---------------------------------------------------------------
+Matching 71 nodes with 14 seeds/communities
+Average for matching family without cluster
+0.14912280701754385
+Average for matching family with cluster
+0.8403508771929824
+---------------------------------------------------------------
+Matching 71 nodes with 16 seeds/communities
+Average for matching family without cluster
+0.2
+Average for matching family with cluster
+0.8581818181818182
+---------------------------------------------------------------
+Matching 71 nodes with 18 seeds/communities
+Average for matching family without cluster
+0.18301886792452832
+Average for matching family with cluster
+0.879245283018868
+---------------------------------------------------------------
+Matching 71 nodes with 20 seeds/communities
+Average for matching family without cluster
+0.18823529411764708
+Average for matching family with cluster
+0.8745098039215687
+---------------------------------------------------------------
+Matching 71 nodes with 22 seeds/communities
+Average for matching family without cluster
+0.2163265306122449
+Average for matching family with cluster
+0.9224489795918368
+---------------------------------------------------------------
+Matching 71 nodes with 24 seeds/communities
+Average for matching family without cluster
+0.10425531914893618
+Average for matching family with cluster
+0.9106382978723406
+---------------------------------------------------------------
+Matching 71 nodes with 26 seeds/communities
+Average for matching family without cluster
+0.11111111111111112
+Average for matching family with cluster
+0.9200000000000002
+---------------------------------------------------------------
+Matching 71 nodes with 28 seeds/communities
+Average for matching family without cluster
+0.14651162790697675
+Average for matching family with cluster
+0.930232558139535
+----------------  GENUS ---------------- 
+---------------------------------------------------------------
+Matching 164 nodes with 0 seeds/communities
+Average for matching genus without cluster
+0.01890243902439024
+Average for matching genus with cluster
+0.5304878048780488
+---------------------------------------------------------------
+Matching 164 nodes with 5 seeds/communities
+Average for matching genus without cluster
+0.01886792452830189
+Average for matching genus with cluster
+0.5389937106918239
+---------------------------------------------------------------
+Matching 164 nodes with 10 seeds/communities
+Average for matching genus without cluster
+0.015584415584415584
+Average for matching genus with cluster
+0.5396103896103897
+---------------------------------------------------------------
+Matching 164 nodes with 15 seeds/communities
+Average for matching genus without cluster
+0.016778523489932886
+Average for matching genus with cluster
+0.5355704697986577
+---------------------------------------------------------------
+Matching 164 nodes with 20 seeds/communities
+Average for matching genus without cluster
+0.019444444444444448
+Average for matching genus with cluster
+0.5180555555555555
+---------------------------------------------------------------
+Matching 164 nodes with 25 seeds/communities
+Average for matching genus without cluster
+0.011510791366906473
+Average for matching genus with cluster
+0.5071942446043165
+---------------------------------------------------------------
+Matching 164 nodes with 30 seeds/communities
+Average for matching genus without cluster
+0.019402985074626865
+Average for matching genus with cluster
+0.5298507462686567
+---------------------------------------------------------------
+Matching 164 nodes with 35 seeds/communities
+Average for matching genus without cluster
+0.024806201550387597
+Average for matching genus with cluster
+0.5131782945736434
+---------------------------------------------------------------
+Matching 164 nodes with 40 seeds/communities
+Average for matching genus without cluster
+0.02661290322580645
+Average for matching genus with cluster
+0.5088709677419355
+---------------------------------------------------------------
+Matching 164 nodes with 45 seeds/communities
+Average for matching genus without cluster
+0.03697478991596639
+Average for matching genus with cluster
+0.5218487394957982
+----------------  SPECIES ---------------- 
+Matching 754 nodes with 0 seeds/communities
+Average for matching species without cluster
+0.003713527851458886
+Average for matching species with cluster
+0.3424403183023873
+Matching 754 nodes with 5 seeds/communities
+Average for matching species without cluster
+0.004539385847797063
+Average for matching species with cluster
+0.3388518024032042
+Matching 754 nodes with 10 seeds/communities
+Average for matching species without cluster
+0.004301075268817204
+Average for matching species with cluster
+0.33427419354838706
+Matching 754 nodes with 50 seeds/communities
+Average for matching species without cluster
+0.0069602272727272724
+Average for matching species with cluster
+0.3390625
+Matching 754 nodes with 100 seeds/communities
+Average for matching species without cluster
+0.01636085626911315
+Average for matching species with cluster
+0.3327217125382263
+Matching 754 nodes with 150 seeds/communities
+Average for matching species without cluster
+0.029470198675496682
+Average for matching species with cluster
+0.35049668874172185
+Matching 754 nodes with 200 seeds/communities
+Average for matching species without cluster
+0.03176895306859206
+Average for matching species with cluster
+0.35216606498194947
+Matching 754 nodes with 250 seeds/communities
+Average for matching species without cluster
+0.02936507936507936
+Average for matching species with cluster
+0.36884920634920637
+Matching 754 nodes with 300 seeds/communities
+Average for matching species without cluster
+0.03612334801762115
+Average for matching species with cluster
+0.3682819383259912
+Country: Bangladesh 
+----------------  PHYLUM ---------------- 
+---------------------------------------------------------------
+Matching 9 nodes with 0 seeds/communities
+Average for matching phylum without cluster
+0.31111111111111117
+Average for matching phylum with cluster
+1.0
+---------------------------------------------------------------
+Matching 9 nodes with 1 seeds/communities
+Average for matching phylum without cluster
+0.375
+Average for matching phylum with cluster
+1.0
+---------------------------------------------------------------
+Matching 9 nodes with 2 seeds/communities
+Average for matching phylum without cluster
+0.2857142857142857
+Average for matching phylum with cluster
+1.0
+----------------  CLASS ---------------- 
+---------------------------------------------------------------
+Matching 18 nodes with 0 seeds/communities
+Average for matching class without cluster
+0.16666666666666669
+Average for matching class with cluster
+0.7999999999999999
+---------------------------------------------------------------
+Matching 18 nodes with 1 seeds/communities
+Average for matching class without cluster
+0.23529411764705882
+Average for matching class with cluster
+0.788235294117647
+---------------------------------------------------------------
+Matching 18 nodes with 2 seeds/communities
+Average for matching class without cluster
+0.2
+Average for matching class with cluster
+0.775
+---------------------------------------------------------------
+Matching 18 nodes with 3 seeds/communities
+Average for matching class without cluster
+0.14666666666666667
+Average for matching class with cluster
+0.8666666666666668
+---------------------------------------------------------------
+Matching 18 nodes with 4 seeds/communities
+Average for matching class without cluster
+0.21428571428571427
+Average for matching class with cluster
+0.8571428571428571
+---------------------------------------------------------------
+Matching 18 nodes with 5 seeds/communities
+Average for matching class without cluster
+0.2
+Average for matching class with cluster
+0.8461538461538461
+---------------------------------------------------------------
+Matching 18 nodes with 6 seeds/communities
+Average for matching class without cluster
+0.16666666666666666
+Average for matching class with cluster
+1.0
+----------------  FAMILY ---------------- 
+---------------------------------------------------------------
+Matching 71 nodes with 0 seeds/communities
+Average for matching family without cluster
+0.015492957746478872
+Average for matching family with cluster
+0.8140845070422535
+---------------------------------------------------------------
+Matching 71 nodes with 2 seeds/communities
+Average for matching family without cluster
+0.011594202898550723
+Average for matching family with cluster
+0.8
+---------------------------------------------------------------
+Matching 71 nodes with 4 seeds/communities
+Average for matching family without cluster
+0.07313432835820896
+Average for matching family with cluster
+0.808955223880597
+---------------------------------------------------------------
+Matching 71 nodes with 6 seeds/communities
+Average for matching family without cluster
+0.05384615384615384
+Average for matching family with cluster
+0.8
+---------------------------------------------------------------
+Matching 71 nodes with 8 seeds/communities
+Average for matching family without cluster
+0.050793650793650794
+Average for matching family with cluster
+0.7984126984126984
+---------------------------------------------------------------
+Matching 71 nodes with 10 seeds/communities
+Average for matching family without cluster
+0.0622950819672131
+Average for matching family with cluster
+0.780327868852459
+---------------------------------------------------------------
+Matching 71 nodes with 12 seeds/communities
+Average for matching family without cluster
+0.03728813559322034
+Average for matching family with cluster
+0.7796610169491525
+---------------------------------------------------------------
+Matching 71 nodes with 14 seeds/communities
+Average for matching family without cluster
+0.042105263157894736
+Average for matching family with cluster
+0.7824561403508772
+---------------------------------------------------------------
+Matching 71 nodes with 16 seeds/communities
+Average for matching family without cluster
+0.11818181818181817
+Average for matching family with cluster
+0.7872727272727273
+---------------------------------------------------------------
+Matching 71 nodes with 18 seeds/communities
+Average for matching family without cluster
+0.11509433962264151
+Average for matching family with cluster
+0.7830188679245284
+---------------------------------------------------------------
+Matching 71 nodes with 20 seeds/communities
+Average for matching family without cluster
+0.11568627450980393
+Average for matching family with cluster
+0.807843137254902
+---------------------------------------------------------------
+Matching 71 nodes with 22 seeds/communities
+Average for matching family without cluster
+0.11632653061224489
+Average for matching family with cluster
+0.8
+---------------------------------------------------------------
+Matching 71 nodes with 24 seeds/communities
+Average for matching family without cluster
+0.09148936170212765
+Average for matching family with cluster
+0.8
+---------------------------------------------------------------
+Matching 71 nodes with 26 seeds/communities
+Average for matching family without cluster
+0.09555555555555555
+Average for matching family with cluster
+0.7866666666666667
+---------------------------------------------------------------
+Matching 71 nodes with 28 seeds/communities
+Average for matching family without cluster
+0.08604651162790697
+Average for matching family with cluster
+0.855813953488372
+----------------  GENUS ---------------- 
+---------------------------------------------------------------
+Matching 164 nodes with 0 seeds/communities
+Average for matching genus without cluster
+0.004268292682926829
+Average for matching genus with cluster
+0.48780487804878037
+---------------------------------------------------------------
+Matching 164 nodes with 5 seeds/communities
+Average for matching genus without cluster
+0.0031446540880503146
+Average for matching genus with cluster
+0.47924528301886793
+---------------------------------------------------------------
+Matching 164 nodes with 10 seeds/communities
+Average for matching genus without cluster
+0.01038961038961039
+Average for matching genus with cluster
+0.4707792207792207
+---------------------------------------------------------------
+Matching 164 nodes with 15 seeds/communities
+Average for matching genus without cluster
+0.013422818791946308
+Average for matching genus with cluster
+0.45570469798657715
+---------------------------------------------------------------
+Matching 164 nodes with 20 seeds/communities
+Average for matching genus without cluster
+0.01666666666666667
+Average for matching genus with cluster
+0.4666666666666667
+---------------------------------------------------------------
+Matching 164 nodes with 25 seeds/communities
+Average for matching genus without cluster
+0.025899280575539568
+Average for matching genus with cluster
+0.4640287769784172
+---------------------------------------------------------------
+Matching 164 nodes with 30 seeds/communities
+Average for matching genus without cluster
+0.029104477611940294
+Average for matching genus with cluster
+0.48731343283582096
+---------------------------------------------------------------
+Matching 164 nodes with 35 seeds/communities
+Average for matching genus without cluster
+0.031007751937984496
+Average for matching genus with cluster
+0.5317829457364341
+---------------------------------------------------------------
+Matching 164 nodes with 40 seeds/communities
+Average for matching genus without cluster
+0.037096774193548385
+Average for matching genus with cluster
+0.5177419354838709
+---------------------------------------------------------------
+Matching 164 nodes with 45 seeds/communities
+Average for matching genus without cluster
+0.03277310924369749
+Average for matching genus with cluster
+0.5210084033613445
+----------------  SPECIES ---------------- 
+Matching 754 nodes with 0 seeds/communities
+Average for matching species without cluster
+0.0014588859416445623
+Average for matching species with cluster
+0.31883289124668435
+Matching 754 nodes with 5 seeds/communities
+Average for matching species without cluster
+0.001602136181575434
+Average for matching species with cluster
+0.3251001335113485
+Matching 754 nodes with 10 seeds/communities
+Average for matching species without cluster
+0.001075268817204301
+Average for matching species with cluster
+0.32419354838709674
+Matching 754 nodes with 50 seeds/communities
+Average for matching species without cluster
+0.0019886363636363634
+Average for matching species with cluster
+0.32343749999999993
+Matching 754 nodes with 100 seeds/communities
+Average for matching species without cluster
+0.003975535168195718
+Average for matching species with cluster
+0.33577981651376143
+Matching 754 nodes with 150 seeds/communities
+Average for matching species without cluster
+0.004801324503311259
+Average for matching species with cluster
+0.3447019867549669
+Matching 754 nodes with 200 seeds/communities
+Average for matching species without cluster
+0.0036101083032490976
+Average for matching species with cluster
+0.3528880866425993
+Matching 754 nodes with 250 seeds/communities
+Average for matching species without cluster
+0.009325396825396823
+Average for matching species with cluster
+0.35912698412698413
+Matching 754 nodes with 300 seeds/communities
+Average for matching species without cluster
+0.006607929515418503
+Average for matching species with cluster
+0.3475770925110132

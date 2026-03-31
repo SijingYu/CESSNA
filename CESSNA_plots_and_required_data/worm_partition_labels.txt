@@ -1,0 +1,2121 @@
+Current index of community 0
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.17266187050359713
+Current number of seeds 5
+0.14233576642335766
+Current number of seeds 10
+0.17472118959107807
+Current number of seeds 20
+0.19305019305019305
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.3023255813953488
+Current number of seeds 200
+0.25316455696202533
+Current index of community 1
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.13309352517985612
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.1412639405204461
+Current number of seeds 20
+0.16216216216216217
+Current number of seeds 50
+0.2096069868995633
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.22905027932960895
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.27848101265822783
+Current index of community 2
+Current number of seeds 0
+0.17562724014336917
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.15328467153284672
+Current number of seeds 10
+0.1449814126394052
+Current number of seeds 20
+0.1583011583011583
+Current number of seeds 50
+0.23580786026200873
+Current number of seeds 75
+0.20098039215686275
+Current number of seeds 100
+0.2346368715083799
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.35443037974683544
+Current index of community 3
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.14233576642335766
+Current number of seeds 10
+0.15985130111524162
+Current number of seeds 20
+0.16602316602316602
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.20098039215686275
+Current number of seeds 100
+0.2011173184357542
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.3037974683544304
+Current index of community 4
+Current number of seeds 0
+0.13978494623655913
+Current number of seeds 1
+0.1510791366906475
+Current number of seeds 5
+0.18613138686131386
+Current number of seeds 10
+0.15613382899628253
+Current number of seeds 20
+0.1891891891891892
+Current number of seeds 50
+0.21397379912663755
+Current number of seeds 75
+0.23529411764705882
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.3178294573643411
+Current number of seeds 200
+0.20253164556962025
+Current index of community 5
+Current number of seeds 0
+0.1935483870967742
+Current number of seeds 1
+0.1510791366906475
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.137546468401487
+Current number of seeds 20
+0.1776061776061776
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.20098039215686275
+Current number of seeds 100
+0.17318435754189945
+Current number of seeds 150
+0.24806201550387597
+Current number of seeds 200
+0.31645569620253167
+Current index of community 6
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.16423357664233576
+Current number of seeds 10
+0.15985130111524162
+Current number of seeds 20
+0.1969111969111969
+Current number of seeds 50
+0.18340611353711792
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.19553072625698323
+Current number of seeds 150
+0.32558139534883723
+Current number of seeds 200
+0.379746835443038
+Current index of community 7
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.17985611510791366
+Current number of seeds 5
+0.17153284671532848
+Current number of seeds 10
+0.1821561338289963
+Current number of seeds 20
+0.1583011583011583
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.23529411764705882
+Current number of seeds 100
+0.20670391061452514
+Current number of seeds 150
+0.3023255813953488
+Current number of seeds 200
+0.3037974683544304
+Current index of community 8
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.1474820143884892
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.17374517374517376
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.20098039215686275
+Current number of seeds 100
+0.2011173184357542
+Current number of seeds 150
+0.27906976744186046
+Current number of seeds 200
+0.26582278481012656
+Current index of community 9
+Current number of seeds 0
+0.16487455197132617
+Current number of seeds 1
+0.16546762589928057
+Current number of seeds 5
+0.15328467153284672
+Current number of seeds 10
+0.1412639405204461
+Current number of seeds 20
+0.1776061776061776
+Current number of seeds 50
+0.21397379912663755
+Current number of seeds 75
+0.24509803921568626
+Current number of seeds 100
+0.2569832402234637
+Current number of seeds 150
+0.27906976744186046
+Current number of seeds 200
+0.27848101265822783
+Current index of community 10
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.16906474820143885
+Current number of seeds 5
+0.19343065693430658
+Current number of seeds 10
+0.17472118959107807
+Current number of seeds 20
+0.16988416988416988
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.25980392156862747
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.3178294573643411
+Current number of seeds 200
+0.2911392405063291
+Current index of community 11
+Current number of seeds 0
+0.14336917562724014
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.15613382899628253
+Current number of seeds 20
+0.17374517374517376
+Current number of seeds 50
+0.2096069868995633
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.2558139534883721
+Current number of seeds 200
+0.3291139240506329
+Current index of community 12
+Current number of seeds 0
+0.16845878136200718
+Current number of seeds 1
+0.17625899280575538
+Current number of seeds 5
+0.17153284671532848
+Current number of seeds 10
+0.17472118959107807
+Current number of seeds 20
+0.16988416988416988
+Current number of seeds 50
+0.24890829694323144
+Current number of seeds 75
+0.20098039215686275
+Current number of seeds 100
+0.20670391061452514
+Current number of seeds 150
+0.2558139534883721
+Current number of seeds 200
+0.25316455696202533
+Current index of community 13
+Current number of seeds 0
+0.14695340501792115
+Current number of seeds 1
+0.18345323741007194
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.1895910780669145
+Current number of seeds 20
+0.2084942084942085
+Current number of seeds 50
+0.21397379912663755
+Current number of seeds 75
+0.22549019607843138
+Current number of seeds 100
+0.22905027932960895
+Current number of seeds 150
+0.3178294573643411
+Current number of seeds 200
+0.21518987341772153
+Current index of community 14
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.1474820143884892
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.16356877323420074
+Current number of seeds 20
+0.16602316602316602
+Current number of seeds 50
+0.2052401746724891
+Current number of seeds 75
+0.2107843137254902
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.27848101265822783
+Current index of community 15
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.1366906474820144
+Current number of seeds 5
+0.14233576642335766
+Current number of seeds 10
+0.1449814126394052
+Current number of seeds 20
+0.1583011583011583
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.27906976744186046
+Current number of seeds 200
+0.27848101265822783
+Current index of community 16
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.1510791366906475
+Current number of seeds 5
+0.145985401459854
+Current number of seeds 10
+0.16728624535315986
+Current number of seeds 20
+0.20463320463320464
+Current number of seeds 50
+0.25327510917030566
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.2011173184357542
+Current number of seeds 150
+0.27906976744186046
+Current number of seeds 200
+0.27848101265822783
+Current index of community 17
+Current number of seeds 0
+0.13620071684587814
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.13138686131386862
+Current number of seeds 10
+0.13011152416356878
+Current number of seeds 20
+0.16988416988416988
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.2558139534883721
+Current number of seeds 200
+0.25316455696202533
+Current index of community 18
+Current number of seeds 0
+0.17921146953405018
+Current number of seeds 1
+0.17985611510791366
+Current number of seeds 5
+0.1897810218978102
+Current number of seeds 10
+0.18587360594795538
+Current number of seeds 20
+0.19305019305019305
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.25
+Current number of seeds 100
+0.2681564245810056
+Current number of seeds 150
+0.24806201550387597
+Current number of seeds 200
+0.34177215189873417
+Current index of community 19
+Current number of seeds 0
+0.1863799283154122
+Current number of seeds 1
+0.18705035971223022
+Current number of seeds 5
+0.19343065693430658
+Current number of seeds 10
+0.17843866171003717
+Current number of seeds 20
+0.1891891891891892
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.25139664804469275
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.4050632911392405
+Current index of community 20
+Current number of seeds 0
+0.16487455197132617
+Current number of seeds 1
+0.16546762589928057
+Current number of seeds 5
+0.17518248175182483
+Current number of seeds 10
+0.19330855018587362
+Current number of seeds 20
+0.18532818532818532
+Current number of seeds 50
+0.24017467248908297
+Current number of seeds 75
+0.23529411764705882
+Current number of seeds 100
+0.25139664804469275
+Current number of seeds 150
+0.3023255813953488
+Current number of seeds 200
+0.25316455696202533
+Current index of community 21
+Current number of seeds 0
+0.1971326164874552
+Current number of seeds 1
+0.16906474820143885
+Current number of seeds 5
+0.17883211678832117
+Current number of seeds 10
+0.1895910780669145
+Current number of seeds 20
+0.1776061776061776
+Current number of seeds 50
+0.21397379912663755
+Current number of seeds 75
+0.24019607843137256
+Current number of seeds 100
+0.19553072625698323
+Current number of seeds 150
+0.3178294573643411
+Current number of seeds 200
+0.3291139240506329
+Current index of community 22
+Current number of seeds 0
+0.13620071684587814
+Current number of seeds 1
+0.17985611510791366
+Current number of seeds 5
+0.1386861313868613
+Current number of seeds 10
+0.20817843866171004
+Current number of seeds 20
+0.20463320463320464
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.23039215686274508
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.3178294573643411
+Current number of seeds 200
+0.17721518987341772
+Current index of community 23
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.15467625899280577
+Current number of seeds 5
+0.13503649635036497
+Current number of seeds 10
+0.1412639405204461
+Current number of seeds 20
+0.15057915057915058
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.2107843137254902
+Current number of seeds 100
+0.20670391061452514
+Current number of seeds 150
+0.29457364341085274
+Current number of seeds 200
+0.24050632911392406
+Current index of community 24
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.15467625899280577
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.16216216216216217
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.2011173184357542
+Current number of seeds 150
+0.24806201550387597
+Current number of seeds 200
+0.2911392405063291
+Current index of community 25
+Current number of seeds 0
+0.17921146953405018
+Current number of seeds 1
+0.16546762589928057
+Current number of seeds 5
+0.145985401459854
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.16988416988416988
+Current number of seeds 50
+0.2183406113537118
+Current number of seeds 75
+0.22549019607843138
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.2911392405063291
+Current index of community 26
+Current number of seeds 0
+0.12186379928315412
+Current number of seeds 1
+0.15467625899280577
+Current number of seeds 5
+0.145985401459854
+Current number of seeds 10
+0.15613382899628253
+Current number of seeds 20
+0.16602316602316602
+Current number of seeds 50
+0.23580786026200873
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.20670391061452514
+Current number of seeds 150
+0.23255813953488372
+Current number of seeds 200
+0.26582278481012656
+Current index of community 27
+Current number of seeds 0
+0.13978494623655913
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.12639405204460966
+Current number of seeds 20
+0.15057915057915058
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.31645569620253167
+Current index of community 28
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.1583011583011583
+Current number of seeds 50
+0.21397379912663755
+Current number of seeds 75
+0.22549019607843138
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.26356589147286824
+Current number of seeds 200
+0.2911392405063291
+Current index of community 29
+Current number of seeds 0
+0.15053763440860216
+Current number of seeds 1
+0.12589928057553956
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.1449814126394052
+Current number of seeds 20
+0.16988416988416988
+Current number of seeds 50
+0.2096069868995633
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.19553072625698323
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.2911392405063291
+Current index of community 30
+Current number of seeds 0
+0.14336917562724014
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.16423357664233576
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.18146718146718147
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.2558139534883721
+Current number of seeds 200
+0.3037974683544304
+Current index of community 31
+Current number of seeds 0
+0.1863799283154122
+Current number of seeds 1
+0.16906474820143885
+Current number of seeds 5
+0.12043795620437957
+Current number of seeds 10
+0.15613382899628253
+Current number of seeds 20
+0.16988416988416988
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.18627450980392157
+Current number of seeds 100
+0.22905027932960895
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.3037974683544304
+Current index of community 32
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.16602316602316602
+Current number of seeds 50
+0.25327510917030566
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.31007751937984496
+Current number of seeds 200
+0.31645569620253167
+Current index of community 33
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.17625899280575538
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.15444015444015444
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.20098039215686275
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.27906976744186046
+Current number of seeds 200
+0.25316455696202533
+Current index of community 34
+Current number of seeds 0
+0.1935483870967742
+Current number of seeds 1
+0.17985611510791366
+Current number of seeds 5
+0.18248175182481752
+Current number of seeds 10
+0.1895910780669145
+Current number of seeds 20
+0.16602316602316602
+Current number of seeds 50
+0.2052401746724891
+Current number of seeds 75
+0.23529411764705882
+Current number of seeds 100
+0.22905027932960895
+Current number of seeds 150
+0.32558139534883723
+Current number of seeds 200
+0.27848101265822783
+Current index of community 35
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.1678832116788321
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.18146718146718147
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.2107843137254902
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.3037974683544304
+Current index of community 36
+Current number of seeds 0
+0.16487455197132617
+Current number of seeds 1
+0.17266187050359713
+Current number of seeds 5
+0.14233576642335766
+Current number of seeds 10
+0.15613382899628253
+Current number of seeds 20
+0.16216216216216217
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.20098039215686275
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.20930232558139536
+Current number of seeds 200
+0.31645569620253167
+Current index of community 37
+Current number of seeds 0
+0.13978494623655913
+Current number of seeds 1
+0.15467625899280577
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.1895910780669145
+Current number of seeds 20
+0.19305019305019305
+Current number of seeds 50
+0.2096069868995633
+Current number of seeds 75
+0.23039215686274508
+Current number of seeds 100
+0.20670391061452514
+Current number of seeds 150
+0.31007751937984496
+Current number of seeds 200
+0.24050632911392406
+Current index of community 38
+Current number of seeds 0
+0.14695340501792115
+Current number of seeds 1
+0.1906474820143885
+Current number of seeds 5
+0.1678832116788321
+Current number of seeds 10
+0.20817843866171004
+Current number of seeds 20
+0.18146718146718147
+Current number of seeds 50
+0.2096069868995633
+Current number of seeds 75
+0.24509803921568626
+Current number of seeds 100
+0.2681564245810056
+Current number of seeds 150
+0.32558139534883723
+Current number of seeds 200
+0.3037974683544304
+Current index of community 39
+Current number of seeds 0
+0.13978494623655913
+Current number of seeds 1
+0.17625899280575538
+Current number of seeds 5
+0.145985401459854
+Current number of seeds 10
+0.1449814126394052
+Current number of seeds 20
+0.1583011583011583
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.18627450980392157
+Current number of seeds 100
+0.2346368715083799
+Current number of seeds 150
+0.2868217054263566
+Current number of seeds 200
+0.27848101265822783
+Current index of community 40
+Current number of seeds 0
+0.15053763440860216
+Current number of seeds 1
+0.14028776978417265
+Current number of seeds 5
+0.1386861313868613
+Current number of seeds 10
+0.1449814126394052
+Current number of seeds 20
+0.15444015444015444
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.27906976744186046
+Current number of seeds 200
+0.27848101265822783
+Current index of community 41
+Current number of seeds 0
+0.15053763440860216
+Current number of seeds 1
+0.14028776978417265
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.18146718146718147
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.22549019607843138
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.26356589147286824
+Current number of seeds 200
+0.35443037974683544
+Current index of community 42
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.11870503597122302
+Current number of seeds 5
+0.1386861313868613
+Current number of seeds 10
+0.1449814126394052
+Current number of seeds 20
+0.16216216216216217
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.23039215686274508
+Current number of seeds 100
+0.20670391061452514
+Current number of seeds 150
+0.26356589147286824
+Current number of seeds 200
+0.3037974683544304
+Current index of community 43
+Current number of seeds 0
+0.14695340501792115
+Current number of seeds 1
+0.13309352517985612
+Current number of seeds 5
+0.15328467153284672
+Current number of seeds 10
+0.1412639405204461
+Current number of seeds 20
+0.19305019305019305
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.2107843137254902
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.26356589147286824
+Current number of seeds 200
+0.31645569620253167
+Current index of community 44
+Current number of seeds 0
+0.18996415770609318
+Current number of seeds 1
+0.18705035971223022
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.16728624535315986
+Current number of seeds 20
+0.17374517374517376
+Current number of seeds 50
+0.2052401746724891
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.2346368715083799
+Current number of seeds 150
+0.26356589147286824
+Current number of seeds 200
+0.34177215189873417
+Current index of community 45
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.14388489208633093
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.1449814126394052
+Current number of seeds 20
+0.16216216216216217
+Current number of seeds 50
+0.2052401746724891
+Current number of seeds 75
+0.19117647058823528
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.27906976744186046
+Current number of seeds 200
+0.3037974683544304
+Current index of community 46
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.1897810218978102
+Current number of seeds 10
+0.18587360594795538
+Current number of seeds 20
+0.1776061776061776
+Current number of seeds 50
+0.20087336244541484
+Current number of seeds 75
+0.24019607843137256
+Current number of seeds 100
+0.24581005586592178
+Current number of seeds 150
+0.3023255813953488
+Current number of seeds 200
+0.34177215189873417
+Current index of community 47
+Current number of seeds 0
+0.14695340501792115
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.1386861313868613
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.15444015444015444
+Current number of seeds 50
+0.23580786026200873
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.27848101265822783
+Current index of community 48
+Current number of seeds 0
+0.17204301075268819
+Current number of seeds 1
+0.12589928057553956
+Current number of seeds 5
+0.1386861313868613
+Current number of seeds 10
+0.137546468401487
+Current number of seeds 20
+0.1776061776061776
+Current number of seeds 50
+0.24017467248908297
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.3037974683544304
+Current index of community 49
+Current number of seeds 0
+0.1827956989247312
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.13503649635036497
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.16988416988416988
+Current number of seeds 50
+0.21397379912663755
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.22905027932960895
+Current number of seeds 150
+0.26356589147286824
+Current number of seeds 200
+0.2911392405063291
+Current index of community 50
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.18613138686131386
+Current number of seeds 10
+0.1412639405204461
+Current number of seeds 20
+0.1583011583011583
+Current number of seeds 50
+0.24017467248908297
+Current number of seeds 75
+0.18627450980392157
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.25316455696202533
+Current index of community 51
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.15467625899280577
+Current number of seeds 5
+0.14233576642335766
+Current number of seeds 10
+0.15613382899628253
+Current number of seeds 20
+0.15057915057915058
+Current number of seeds 50
+0.21397379912663755
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.19553072625698323
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.2911392405063291
+Current index of community 52
+Current number of seeds 0
+0.14336917562724014
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.16356877323420074
+Current number of seeds 20
+0.16602316602316602
+Current number of seeds 50
+0.2576419213973799
+Current number of seeds 75
+0.20098039215686275
+Current number of seeds 100
+0.22905027932960895
+Current number of seeds 150
+0.26356589147286824
+Current number of seeds 200
+0.31645569620253167
+Current index of community 53
+Current number of seeds 0
+0.16487455197132617
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.17883211678832117
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.16988416988416988
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.3291139240506329
+Current index of community 54
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.14028776978417265
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.13011152416356878
+Current number of seeds 20
+0.16988416988416988
+Current number of seeds 50
+0.21397379912663755
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.24022346368715083
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.3037974683544304
+Current index of community 55
+Current number of seeds 0
+0.15053763440860216
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.14233576642335766
+Current number of seeds 10
+0.1821561338289963
+Current number of seeds 20
+0.15057915057915058
+Current number of seeds 50
+0.2183406113537118
+Current number of seeds 75
+0.2107843137254902
+Current number of seeds 100
+0.20670391061452514
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.31645569620253167
+Current index of community 56
+Current number of seeds 0
+0.16487455197132617
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.1386861313868613
+Current number of seeds 10
+0.1412639405204461
+Current number of seeds 20
+0.14285714285714285
+Current number of seeds 50
+0.24017467248908297
+Current number of seeds 75
+0.22058823529411764
+Current number of seeds 100
+0.24581005586592178
+Current number of seeds 150
+0.2558139534883721
+Current number of seeds 200
+0.3291139240506329
+Current index of community 57
+Current number of seeds 0
+0.1827956989247312
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.1897810218978102
+Current number of seeds 10
+0.18587360594795538
+Current number of seeds 20
+0.18532818532818532
+Current number of seeds 50
+0.20087336244541484
+Current number of seeds 75
+0.25
+Current number of seeds 100
+0.20670391061452514
+Current number of seeds 150
+0.3178294573643411
+Current number of seeds 200
+0.31645569620253167
+Current index of community 58
+Current number of seeds 0
+0.1863799283154122
+Current number of seeds 1
+0.17266187050359713
+Current number of seeds 5
+0.1678832116788321
+Current number of seeds 10
+0.17100371747211895
+Current number of seeds 20
+0.1891891891891892
+Current number of seeds 50
+0.2445414847161572
+Current number of seeds 75
+0.19117647058823528
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.26582278481012656
+Current index of community 59
+Current number of seeds 0
+0.1827956989247312
+Current number of seeds 1
+0.20503597122302158
+Current number of seeds 5
+0.17153284671532848
+Current number of seeds 10
+0.1821561338289963
+Current number of seeds 20
+0.1969111969111969
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.2549019607843137
+Current number of seeds 100
+0.2569832402234637
+Current number of seeds 150
+0.3178294573643411
+Current number of seeds 200
+0.27848101265822783
+Current index of community 60
+Current number of seeds 0
+0.13978494623655913
+Current number of seeds 1
+0.1510791366906475
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.15057915057915058
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.2107843137254902
+Current number of seeds 100
+0.20670391061452514
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.27848101265822783
+Current index of community 61
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.13309352517985612
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.15985130111524162
+Current number of seeds 20
+0.1583011583011583
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.2558139534883721
+Current number of seeds 200
+0.31645569620253167
+Current index of community 62
+Current number of seeds 0
+0.16487455197132617
+Current number of seeds 1
+0.1223021582733813
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.1412639405204461
+Current number of seeds 20
+0.16602316602316602
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.2558139534883721
+Current number of seeds 200
+0.27848101265822783
+Current index of community 63
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.16906474820143885
+Current number of seeds 5
+0.17518248175182483
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.16216216216216217
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.19117647058823528
+Current number of seeds 100
+0.2011173184357542
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.3037974683544304
+Current index of community 64
+Current number of seeds 0
+0.15770609318996415
+Current number of seeds 1
+0.1510791366906475
+Current number of seeds 5
+0.14233576642335766
+Current number of seeds 10
+0.15985130111524162
+Current number of seeds 20
+0.16216216216216217
+Current number of seeds 50
+0.2445414847161572
+Current number of seeds 75
+0.23529411764705882
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.2868217054263566
+Current number of seeds 200
+0.3291139240506329
+Current index of community 65
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.18345323741007194
+Current number of seeds 5
+0.16058394160583941
+Current number of seeds 10
+0.17100371747211895
+Current number of seeds 20
+0.20463320463320464
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.2549019607843137
+Current number of seeds 100
+0.2346368715083799
+Current number of seeds 150
+0.32558139534883723
+Current number of seeds 200
+0.17721518987341772
+Current index of community 66
+Current number of seeds 0
+0.13620071684587814
+Current number of seeds 1
+0.15467625899280577
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.137546468401487
+Current number of seeds 20
+0.16216216216216217
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.22058823529411764
+Current number of seeds 100
+0.24022346368715083
+Current number of seeds 150
+0.23255813953488372
+Current number of seeds 200
+0.3037974683544304
+Current index of community 67
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.1510791366906475
+Current number of seeds 5
+0.16423357664233576
+Current number of seeds 10
+0.16728624535315986
+Current number of seeds 20
+0.1776061776061776
+Current number of seeds 50
+0.23580786026200873
+Current number of seeds 75
+0.2549019607843137
+Current number of seeds 100
+0.24022346368715083
+Current number of seeds 150
+0.26356589147286824
+Current number of seeds 200
+0.34177215189873417
+Current index of community 68
+Current number of seeds 0
+0.14695340501792115
+Current number of seeds 1
+0.17985611510791366
+Current number of seeds 5
+0.17883211678832117
+Current number of seeds 10
+0.18587360594795538
+Current number of seeds 20
+0.19305019305019305
+Current number of seeds 50
+0.20087336244541484
+Current number of seeds 75
+0.20098039215686275
+Current number of seeds 100
+0.24022346368715083
+Current number of seeds 150
+0.2868217054263566
+Current number of seeds 200
+0.24050632911392406
+Current index of community 69
+Current number of seeds 0
+0.13620071684587814
+Current number of seeds 1
+0.14028776978417265
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.13011152416356878
+Current number of seeds 20
+0.16216216216216217
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.20670391061452514
+Current number of seeds 150
+0.24806201550387597
+Current number of seeds 200
+0.3291139240506329
+Current index of community 70
+Current number of seeds 0
+0.16487455197132617
+Current number of seeds 1
+0.14388489208633093
+Current number of seeds 5
+0.1678832116788321
+Current number of seeds 10
+0.15613382899628253
+Current number of seeds 20
+0.1891891891891892
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.26582278481012656
+Current index of community 71
+Current number of seeds 0
+0.15053763440860216
+Current number of seeds 1
+0.1366906474820144
+Current number of seeds 5
+0.14233576642335766
+Current number of seeds 10
+0.15613382899628253
+Current number of seeds 20
+0.15057915057915058
+Current number of seeds 50
+0.23580786026200873
+Current number of seeds 75
+0.2107843137254902
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.24806201550387597
+Current number of seeds 200
+0.27848101265822783
+Current index of community 72
+Current number of seeds 0
+0.16845878136200718
+Current number of seeds 1
+0.16906474820143885
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.18146718146718147
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.19117647058823528
+Current number of seeds 100
+0.2346368715083799
+Current number of seeds 150
+0.26356589147286824
+Current number of seeds 200
+0.2911392405063291
+Current index of community 73
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.14233576642335766
+Current number of seeds 10
+0.16356877323420074
+Current number of seeds 20
+0.16602316602316602
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.23255813953488372
+Current number of seeds 200
+0.3291139240506329
+Current index of community 74
+Current number of seeds 0
+0.16487455197132617
+Current number of seeds 1
+0.16546762589928057
+Current number of seeds 5
+0.16423357664233576
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.17374517374517376
+Current number of seeds 50
+0.2096069868995633
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.22905027932960895
+Current number of seeds 150
+0.2248062015503876
+Current number of seeds 200
+0.27848101265822783
+Current index of community 75
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.15985130111524162
+Current number of seeds 20
+0.18532818532818532
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.2107843137254902
+Current number of seeds 100
+0.2011173184357542
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.27848101265822783
+Current index of community 76
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.16546762589928057
+Current number of seeds 5
+0.16058394160583941
+Current number of seeds 10
+0.1412639405204461
+Current number of seeds 20
+0.16988416988416988
+Current number of seeds 50
+0.2445414847161572
+Current number of seeds 75
+0.22058823529411764
+Current number of seeds 100
+0.22905027932960895
+Current number of seeds 150
+0.2558139534883721
+Current number of seeds 200
+0.3291139240506329
+Current index of community 77
+Current number of seeds 0
+0.17204301075268819
+Current number of seeds 1
+0.1366906474820144
+Current number of seeds 5
+0.15693430656934307
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.15057915057915058
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.24022346368715083
+Current number of seeds 150
+0.23255813953488372
+Current number of seeds 200
+0.25316455696202533
+Current index of community 78
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.145985401459854
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.17374517374517376
+Current number of seeds 50
+0.2445414847161572
+Current number of seeds 75
+0.2107843137254902
+Current number of seeds 100
+0.22905027932960895
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.2911392405063291
+Current index of community 79
+Current number of seeds 0
+0.16845878136200718
+Current number of seeds 1
+0.16546762589928057
+Current number of seeds 5
+0.145985401459854
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.1776061776061776
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.20098039215686275
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.27906976744186046
+Current number of seeds 200
+0.2911392405063291
+Current index of community 80
+Current number of seeds 0
+0.15053763440860216
+Current number of seeds 1
+0.13309352517985612
+Current number of seeds 5
+0.17153284671532848
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.16602316602316602
+Current number of seeds 50
+0.22707423580786026
+Current number of seeds 75
+0.18627450980392157
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.24806201550387597
+Current number of seeds 200
+0.34177215189873417
+Current index of community 81
+Current number of seeds 0
+0.14336917562724014
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.16423357664233576
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.1891891891891892
+Current number of seeds 50
+0.2183406113537118
+Current number of seeds 75
+0.23039215686274508
+Current number of seeds 100
+0.25139664804469275
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.3291139240506329
+Current index of community 82
+Current number of seeds 0
+0.17204301075268819
+Current number of seeds 1
+0.1510791366906475
+Current number of seeds 5
+0.1386861313868613
+Current number of seeds 10
+0.1524163568773234
+Current number of seeds 20
+0.15057915057915058
+Current number of seeds 50
+0.2183406113537118
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.19553072625698323
+Current number of seeds 150
+0.23255813953488372
+Current number of seeds 200
+0.31645569620253167
+Current index of community 83
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.14388489208633093
+Current number of seeds 5
+0.145985401459854
+Current number of seeds 10
+0.1412639405204461
+Current number of seeds 20
+0.1776061776061776
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.2011173184357542
+Current number of seeds 150
+0.29457364341085274
+Current number of seeds 200
+0.2911392405063291
+Current index of community 84
+Current number of seeds 0
+0.16845878136200718
+Current number of seeds 1
+0.14028776978417265
+Current number of seeds 5
+0.1386861313868613
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.16602316602316602
+Current number of seeds 50
+0.23580786026200873
+Current number of seeds 75
+0.20098039215686275
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.24806201550387597
+Current number of seeds 200
+0.27848101265822783
+Current index of community 85
+Current number of seeds 0
+0.18996415770609318
+Current number of seeds 1
+0.17985611510791366
+Current number of seeds 5
+0.17518248175182483
+Current number of seeds 10
+0.16728624535315986
+Current number of seeds 20
+0.1891891891891892
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.2911392405063291
+Current index of community 86
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.12949640287769784
+Current number of seeds 5
+0.16058394160583941
+Current number of seeds 10
+0.15985130111524162
+Current number of seeds 20
+0.17374517374517376
+Current number of seeds 50
+0.24890829694323144
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.21705426356589147
+Current number of seeds 200
+0.27848101265822783
+Current index of community 87
+Current number of seeds 0
+0.16487455197132617
+Current number of seeds 1
+0.16906474820143885
+Current number of seeds 5
+0.1386861313868613
+Current number of seeds 10
+0.16728624535315986
+Current number of seeds 20
+0.2084942084942085
+Current number of seeds 50
+0.2096069868995633
+Current number of seeds 75
+0.23529411764705882
+Current number of seeds 100
+0.22905027932960895
+Current number of seeds 150
+0.24806201550387597
+Current number of seeds 200
+0.3291139240506329
+Current index of community 88
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.1366906474820144
+Current number of seeds 5
+0.13503649635036497
+Current number of seeds 10
+0.15613382899628253
+Current number of seeds 20
+0.1583011583011583
+Current number of seeds 50
+0.23580786026200873
+Current number of seeds 75
+0.2107843137254902
+Current number of seeds 100
+0.2122905027932961
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.27848101265822783
+Current index of community 89
+Current number of seeds 0
+0.1827956989247312
+Current number of seeds 1
+0.17985611510791366
+Current number of seeds 5
+0.14963503649635038
+Current number of seeds 10
+0.16356877323420074
+Current number of seeds 20
+0.1969111969111969
+Current number of seeds 50
+0.23580786026200873
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.2248062015503876
+Current number of seeds 200
+0.25316455696202533
+Current index of community 90
+Current number of seeds 0
+0.13978494623655913
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.16058394160583941
+Current number of seeds 10
+0.1449814126394052
+Current number of seeds 20
+0.1776061776061776
+Current number of seeds 50
+0.23580786026200873
+Current number of seeds 75
+0.21568627450980393
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.2558139534883721
+Current number of seeds 200
+0.34177215189873417
+Current index of community 91
+Current number of seeds 0
+0.16845878136200718
+Current number of seeds 1
+0.16906474820143885
+Current number of seeds 5
+0.18613138686131386
+Current number of seeds 10
+0.18587360594795538
+Current number of seeds 20
+0.17374517374517376
+Current number of seeds 50
+0.2183406113537118
+Current number of seeds 75
+0.23039215686274508
+Current number of seeds 100
+0.24581005586592178
+Current number of seeds 150
+0.37209302325581395
+Current number of seeds 200
+0.35443037974683544
+Current index of community 92
+Current number of seeds 0
+0.17562724014336917
+Current number of seeds 1
+0.15467625899280577
+Current number of seeds 5
+0.16058394160583941
+Current number of seeds 10
+0.1821561338289963
+Current number of seeds 20
+0.21621621621621623
+Current number of seeds 50
+0.2314410480349345
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.24022346368715083
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.3037974683544304
+Current index of community 93
+Current number of seeds 0
+0.1827956989247312
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.16423357664233576
+Current number of seeds 10
+0.21189591078066913
+Current number of seeds 20
+0.2084942084942085
+Current number of seeds 50
+0.23580786026200873
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.22346368715083798
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.3037974683544304
+Current index of community 94
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.15827338129496402
+Current number of seeds 5
+0.13503649635036497
+Current number of seeds 10
+0.1449814126394052
+Current number of seeds 20
+0.16602316602316602
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.19607843137254902
+Current number of seeds 100
+0.2011173184357542
+Current number of seeds 150
+0.2248062015503876
+Current number of seeds 200
+0.31645569620253167
+Current index of community 95
+Current number of seeds 0
+0.16845878136200718
+Current number of seeds 1
+0.13309352517985612
+Current number of seeds 5
+0.15328467153284672
+Current number of seeds 10
+0.14869888475836432
+Current number of seeds 20
+0.1583011583011583
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.22058823529411764
+Current number of seeds 100
+0.18994413407821228
+Current number of seeds 150
+0.2558139534883721
+Current number of seeds 200
+0.31645569620253167
+Current index of community 96
+Current number of seeds 0
+0.16845878136200718
+Current number of seeds 1
+0.17625899280575538
+Current number of seeds 5
+0.17883211678832117
+Current number of seeds 10
+0.1970260223048327
+Current number of seeds 20
+0.1776061776061776
+Current number of seeds 50
+0.2096069868995633
+Current number of seeds 75
+0.24509803921568626
+Current number of seeds 100
+0.2346368715083799
+Current number of seeds 150
+0.3178294573643411
+Current number of seeds 200
+0.34177215189873417
+Current index of community 97
+Current number of seeds 0
+0.16487455197132617
+Current number of seeds 1
+0.16546762589928057
+Current number of seeds 5
+0.145985401459854
+Current number of seeds 10
+0.15985130111524162
+Current number of seeds 20
+0.15444015444015444
+Current number of seeds 50
+0.22270742358078602
+Current number of seeds 75
+0.19117647058823528
+Current number of seeds 100
+0.24022346368715083
+Current number of seeds 150
+0.2713178294573643
+Current number of seeds 200
+0.3291139240506329
+Current index of community 98
+Current number of seeds 0
+0.16129032258064516
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.16058394160583941
+Current number of seeds 10
+0.15985130111524162
+Current number of seeds 20
+0.18146718146718147
+Current number of seeds 50
+0.2183406113537118
+Current number of seeds 75
+0.23529411764705882
+Current number of seeds 100
+0.24022346368715083
+Current number of seeds 150
+0.24031007751937986
+Current number of seeds 200
+0.26582278481012656
+Current index of community 99
+Current number of seeds 0
+0.15412186379928317
+Current number of seeds 1
+0.1618705035971223
+Current number of seeds 5
+0.15328467153284672
+Current number of seeds 10
+0.18587360594795538
+Current number of seeds 20
+0.19305019305019305
+Current number of seeds 50
+0.2052401746724891
+Current number of seeds 75
+0.23529411764705882
+Current number of seeds 100
+0.24022346368715083
+Current number of seeds 150
+0.3178294573643411
+Current number of seeds 200
+0.26582278481012656
+Current index of community 100
+Current number of seeds 0
+0.16845878136200718
+Current number of seeds 1
+0.1510791366906475
+Current number of seeds 5
+0.1386861313868613
+Current number of seeds 10
+0.137546468401487
+Current number of seeds 20
+0.16988416988416988
+Current number of seeds 50
+0.21397379912663755
+Current number of seeds 75
+0.20588235294117646
+Current number of seeds 100
+0.21787709497206703
+Current number of seeds 150
+0.24806201550387597
+Current number of seeds 200
+0.3291139240506329
