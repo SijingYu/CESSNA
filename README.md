@@ -1,7 +1,7 @@
 # CESSNA: Community-Enhanced Seeded Network Alignment
 
-This repository contains code and data to reproduce the experiments in our paper **Community-Enhanced Semi-seeded Network Alignment (CESSNA): A
-Robust Method with Application to Microbiome Networks on community-enhanced seeded graph matching ** and its comparisons to other baselines.
+This repository contains code and data to reproduce the experiments in our paper *Community-Enhanced Semi-seeded Network Alignment (CESSNA): A
+Robust Method with Application to Microbiome Networks on community-enhanced seeded graph matching* and its comparisons to other baselines.
 
 ## Repository structure
 
